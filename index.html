@@ -1,0 +1,561 @@
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>US Homelessness</title>
+
+    <nav class="nav navbar-inverse">
+    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-xs-4">
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <div class="nav navbar-nav left">
+                    <li><a href="#"><span class="glyphicon glyphicon-menu-hamburger glyphs" aria-hidden="false"></span>SECTIONS</a></li>
+                    <li><a href="#"><span class="glyphicon glyphicon-search glyphs" aria-hidden="true"></span>SEARCH</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-xs-12">
+          <image class="logo" src="photos/latimes.png" align="middle">
+    </div>
+
+    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-xs-4">
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <div class="nav navbar-nav pull-right">
+              <li><button type="button" class="top blue" aria-hidden="true">SUBSCRIBE</button></li>
+              <li>  <button type="button" class="top white" aria-hidden="true">LOG IN</button></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <nav class="navbar navbar-default">
+      <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">MONDAY, MARCH 28, 2016</a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav">
+            <li><a href="#">MOST POPULAR</a></li>
+            <li><a href="#">LOCAL</a></li>
+            <li><a href="#">SPORTS</a></li>
+            <li><a href="#">NCAA BRACKETS</a></li>
+            <li><a href="#">ENTERTAINMENT</a></li>
+            <li><a href="#">POLITICS</a></li>
+            <li><a href="#">OPINION</a></li>
+            <li><a href="#">PLACE AN AD</a></li>
+              </ul>
+          <div class="navbar-form navbar-right"><span class="glyphicon glyphicon-cloud"></span>
+          59 &deg;
+          </form>
+        </div><!-- /.navbar-collapse -->
+      </div><!-- /.container-fluid -->
+    </nav>
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.11/js/jquery.dataTables.min.js"></script>
+    <script src="https://code.highcharts.com/stock/highstock.js"></script>
+    <script src="https://code.highcharts.com/maps/modules/map.js"></script>
+    <script src="https://code.highcharts.com/mapdata/countries/us/us-all.js"></script>
+    <div class="row">
+    <div class="col-xl-7 col-lg-7 col-md-7">
+    <h1>Report shows decrease in state percentage of homelessness, but illuminates need for continued efforts</h1>
+    <p> By <span style="color:darkorange; font-family:serif; font-weight:bold;"> Emily Perry </span> </p>
+    <p>&nbsp</p>
+    <p>The U.S. Department of Housing and Urban Development classify people in emergency housing, transitional housing, and those without shelter as homeless. Each year, the agency puts together a report for Congress on the state of homelessness in the country. In the period between 2007 and 2014, California was one of several states to experience a reduction in overall homelessness. The state, however, still has the highest homeless population of any state, accounting for over 71 thousand homeless individuals in 2014. This number is down from over 90 thousand homeless individuals totaled in the agnecy's 2007 report of the state.</p>
+<p>&nbsp</p>
+    <p> <span class="about">About the data</span></p>
+    <p> The figures and graphs are generated from a series of Continuum of Care (CoC) Homeless Assistance Programs Homeless Populations and Subpopulations Reports compiled by the U.S. Department of Housing and Urban Development and reports by the Office of Community Planning and Development. All numbers are considered an estimate, not a fact, since tracking and accounting for homeless people is often affected by variation in methodology.<p>
+    </div>
+    <div class="col-xl-5 col-lg-5 col-md-5">
+    <p>HOMELESS POPULATION BY STATE, 2007-2014</p>
+    <table id="chart3" class="display" cellspacing="0" width="20%">
+
+        <thead>
+            <tr>
+                <th>State</th>
+                <th>Year</th>
+                <th>Sheltered</th>
+                <th>Unsheltered</th>
+                <th>Total</th>
+            </tr>
+        </thead>
+        <tfoot>
+            <tr>
+              <th>State</th>
+              <th>Year</th>
+              <th>Sheltered</th>
+              <th>Unsheltered</th>
+              <th>Total</th>
+            </tr>
+        </tfoot>
+    </table>
+    </div>
+    </div>
+<link href="https://cdn.datatables.net/1.10.11/css/jquery.dataTables.min.css" rel="stylesheet">
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<link href="css/page.css" rel="stylesheet">
+<link href="css/table.css" rel="stylesheet">
+<link href="css/pie.css" rel="stylesheet">
+<link href="css/map.css" rel="stylesheet">
+
+</head>
+
+<body>
+<div class="row">
+<div class="col-xl-12"> </div>
+</div>
+<div class="row">
+  <div class="col-xl-12"> </div>
+</div>
+<p>&nbsp</p>
+<div class="row">
+  <div class="col-xl-12 col-lg-12 col-med-12 col-sm-12">
+  <p> <span class="about">Nationwide trends in homelessness</span></p>
+  <p>Across the country, there was no real majority trend among states. Some, regions, such as the Washington, D.C. area saw substantial increases in homelessness, while other areas, including California experienced an overall decrease in homelessness.</p>
+  </div>
+  </div>
+<div class="row">
+<div class="col-xl-12 col-lg-12 col-med-12 col-sm-12 col-xs-12" id="chart1" style="width:100%; "></div>
+</div>
+
+<div class="row">
+
+<div class="col-xl-6 col-lg-6 col-med-6">
+  <p> <span class="about">Making sense of the numbers</span></p>
+  <p> While California showed one of the largest percentage decreases in homelessness in the period between 2007 and 2014, the state still has a visible homelessness problem. Nevertheless, lower numbers are signs of success. Many states, including Massachusetts and Florida have seen growing numbers of homeless individuals throughout the state. The perentage increase value might also be inflated in these areas due to low numbers of homelessness at the start of the measurment period.</p>
+</div>
+<div class="col-xl-6 col-lg-6 col-med-6 " id="chart8" style="max-width:500px;">
+</div>
+
+</div>
+
+<p> <span class="about">A closer look</span></p>
+<p>Updated data from HUD paints a clearer picture of the populations that make up California's homeless population in particular. Data on gender, race and subpopulations reveal a primarily white, male homeless population including many chronically homeless individuals or those with mental illess or substance abuse, although not exclusively.</p>
+<ul class="nav nav-tabs" id="pie-tab">
+  <li class="active">
+    <a href="#chart2" data-toggle="tab">Race</a>
+  </li>
+  <li>
+    <a href="#chart6" data-toggle="tab">Gender</a>
+  </li>
+  <li>
+    <a href="#chart7" data-toggle="tab">Subpopulations</a>
+  </li>
+</ul>
+<div class="tab-content">
+  <div class="tab-pane-active" id="race">
+    <div class="row">
+    <div class="col-lg-4">
+    <div id="chart2" style="width:100%; height:400px;"></div>
+    </div>
+
+  <div class="col-lg-4">
+  <div class="tab-pane" id="gender">
+  <div id="chart6" style="width:100%; height:400px;"></div>
+    </div>
+    </div>
+    <div class="col-lg-4">
+    <div class="tab-pane" id="subpop">
+      <div id="chart7" style="width:100%; height:400px;"></div>
+      </div>
+      </div>
+</div>
+</div>
+  </div>
+<p><span style="color:lightgrey; font-size:8pt;"> data source: https://www.hudexchange.info/manage-a-program/coc-homeless-populations-and-subpopulations-reports/ </span></p>
+
+<script>
+
+$(document).ready(function(){
+  buildChart1();
+  buildChart2();
+  buildChart3();
+  buildChart4 ();
+  buildChart5 ();
+  buildChart6 ();
+  buildChart7 ();
+  buildChart8 ();
+
+});
+
+
+function buildChart1(){
+  $.getJSON('http://ecperry.com/project-3/json/h-map-change.json', function (data) {
+    $.each (data, function () {
+this.code= this.code.toUpperCase();
+
+  });
+
+          // Instanciate the map
+
+
+    $('#chart1').highcharts('Map', {
+          chart : {
+                  borderWidth : 0
+              },
+
+              title : {
+                  text : 'PERCENTAGE CHANGE IN ESTIMATED HOMELESSNESS BY STATE, 2007-2014'
+              },
+
+              legend: {
+                  layout: 'horizontal',
+                  borderWidth: 0,
+                  backgroundColor: 'rgba(255,255,255,0.85)',
+                  floating: true,
+                  verticalAlign: 'top',
+                  y: 25
+              },
+
+              mapNavigation: {
+                  enabled: true
+              },
+
+              colorAxis: {
+                dataClasses: [{
+                    from: -100,
+                    to: -10,
+                    color: "#ffeee6"
+                }, {
+                    from: -10,
+                    to: -5,
+                    color: "#ffddcc"
+                }, {
+                    from: -5,
+                    to: 0,
+                    color: "#ffccb3"
+                }, {
+                    from: 0,
+                    to: 5,
+                    color: "#ffbb99"
+                }, {
+                    from: 5,
+                    to: 10,
+                    color: "#ffaa80"
+                }, {
+                    from: 10,
+                    color: "#ff9966"
+                }]
+            },
+
+              series : [{
+                  animation: {
+                      duration: 1000
+                  },
+                  data : data,
+                  mapData: Highcharts.maps['countries/us/us-all'],
+                  joinBy: ['postal-code', 'code'],
+                  dataLabels: {
+                      enabled: true,
+                      color: '#FFFFFF',
+                      format: '{point.code}'
+                  },
+                  name: 'Change in Estimated State Homelessness',
+                  tooltip: {
+                      pointFormat: '{point.code}: {point.value}%'
+                  }
+              }]
+          });
+    });
+
+      };
+
+      function buildChart2(){
+        $.getJSON('http://ecperry.com/project-3/json/race-15.json', function (data) {
+          $.each (data, function () {
+
+        });
+            $('#chart2').highcharts({
+
+              chart: {
+              plotBackgroundColor: null,
+              plotBorderWidth: null,
+              plotShadow: false,
+              type: 'pie'
+          },
+          title: {
+              text: 'Racial Breakdown of US Homelessness, 2015'
+          },
+          tooltip: {
+              pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+          },
+          plotOptions: {
+              pie: {
+                  allowPointSelect: true,
+                  cursor: 'pointer',
+                  dataLabels: {
+                      enabled: false
+                  },
+                  showInLegend: true
+              }
+          },
+          series: [{
+              name: 'portion of total homeless populations',
+              colorByPoint: true,
+              data:data
+          }]
+      });
+  });
+  };
+
+  function buildChart2(){
+    $.getJSON('http://ecperry.com/project-3/json/race-15.json', function (data) {
+      $.each (data, function () {
+
+    });
+        $('#chart2').highcharts({
+
+          chart: {
+          plotBackgroundColor: null,
+          plotBorderWidth: null,
+          plotShadow: false,
+          type: 'pie'
+      },
+      title: {
+          text: 'Racial Breakdown of US Homelessness, 2015'
+      },
+      tooltip: {
+          pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+      },
+      plotOptions: {
+          pie: {
+              allowPointSelect: true,
+              cursor: 'pointer',
+              dataLabels: {
+                  enabled: false
+              },
+              showInLegend: true
+          }
+      },
+      series: [{
+          name: 'portion of total homeless populations',
+          colorByPoint: true,
+          data:data
+      }]
+  });
+});
+};
+
+function buildChart2(){
+  $.getJSON('http://ecperry.com/project-3/json/race-15.json', function (data) {
+    $.each (data, function () {
+
+  });
+  Highcharts.setOptions({
+   colors: ['#662000', '#993000', '#cc4100', '#ff5100', '#ff9666', '#ffb999', '#ffcbb3', '#ffeee6']
+  });
+      $('#chart2').highcharts({
+
+        chart: {
+        plotBackgroundColor: null,
+        plotBorderWidth: null,
+        plotShadow: false,
+        type: 'pie'
+    },
+    title: {
+        text: 'HOMELESSNESS IN CA BY RACE, 2015'
+    },
+    tooltip: {
+        pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+    },
+    plotOptions: {
+        pie: {
+            allowPointSelect: true,
+            cursor: 'pointer',
+            dataLabels: {
+                enabled: false
+            },
+            showInLegend: true
+        }
+    },
+    series: [{
+        name: 'portion of total homeless populations',
+        colorByPoint: true,
+        data:data
+    }]
+});
+});
+};
+
+
+function buildChart3 () {
+      $('#chart3').DataTable( {
+          "ajax": "json/table.txt"
+      } );
+  };
+
+  function buildChart4 () {
+        $('#chart4').DataTable( {
+            "ajax": "json/largest-incr.txt"
+        } );
+    };
+    function buildChart5 () {
+          $('#chart5').DataTable( {
+              "ajax": "json/largest-decr.txt"
+          } );
+      };
+
+    function buildChart6(){
+      $.getJSON('http://ecperry.com/project-3/json/gender-15.json', function (data) {
+        $.each (data, function () {
+
+          Highcharts.setOptions({
+           colors: ['#662000', '#993000', '#cc4100', '#ff5100', '#ff9666', '#ffb999', '#ffcbb3', '#ffeee6', '#ffeeee']
+          });
+      });
+          $('#chart6').highcharts({
+
+            chart: {
+            plotBackgroundColor: null,
+            plotBorderWidth: null,
+            plotShadow: false,
+            type: 'pie'
+        },
+        title: {
+            text: 'HOMELESSNESS IN CA BY GENDER, 2015'
+        },
+        tooltip: {
+            pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+        },
+        plotOptions: {
+            pie: {
+                allowPointSelect: true,
+                cursor: 'pointer',
+                dataLabels: {
+                    enabled: false
+                },
+                showInLegend: true
+            }
+        },
+        series: [{
+            name:'portion of total CA homeless population',
+            colorByPoint: true,
+            data:data
+        }]
+    });
+    });
+    };
+
+    function buildChart7(){
+    $.getJSON('http://ecperry.com/project-3/json/subpop-15.json', function (data) {
+      $.each (data, function () {
+
+    });
+    Highcharts.setOptions({
+     colors: ['#662000', '#993000', '#cc4100', '#ff5100', '#ff9666', '#ffb999', '#ffcbb3', '#ffeee6', '#ffeeee']
+    });
+        $('#chart7').highcharts({
+
+          chart: {
+          plotBackgroundColor: null,
+          plotBorderWidth: null,
+          plotShadow: false,
+          type: 'pie'
+      },
+      title: {
+          text: 'HOMELESSNESS IN CA BY SUBPOPULATION, 2015'
+      },
+      tooltip: {
+          pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+      },
+      plotOptions: {
+          pie: {
+              allowPointSelect: true,
+              cursor: 'pointer',
+              dataLabels: {
+                  enabled: false
+              },
+              showInLegend: true
+          }
+      },
+      series: [{
+          name: 'portion of total CA homeless population',
+          colorByPoint: true,
+          data:data
+      }]
+    });
+    });
+    };
+
+    function buildChart8() {
+        // Age categories
+        var increases = ['CA', 'FL', 'NJ', 'OR','TX'];
+        var decreases = ['DC', 'MA', 'MN', 'MO','NY'];
+
+        Highcharts.setOptions({
+         colors: [ '#cc4100', '#ffb999', '#ffcbb3', '#ffeee6', '#ffeeee']
+        });
+
+            $('#chart8').highcharts({
+                chart: {
+                    type: 'bar'
+                },
+                title: {
+                    text: 'LARGEST PERCENT INCREASES AND DECREASES IN STATE HOMELESS POPULATION, 2007-2014 '
+                },
+                xAxis: [{
+                    categories: increases,
+                    reversed: true,
+                    labels: {
+                        step: 1
+                    }
+                }, { // mirror axis on right side
+                    opposite: true,
+                    reversed: true,
+                    categories: decreases,
+                    linkedTo: 0,
+                    labels: {
+                        step: 1
+                    }
+                }],
+                yAxis: {
+                    title: {
+                        text: null
+                    },
+                    labels: {
+                        formatter: function () {
+                            return Math.abs(this.value) + '%';
+                        }
+                    }
+                },
+
+                plotOptions: {
+                    series: {
+                        stacking: 'normal'
+                    }
+                },
+
+                tooltip: {
+                formatter: function () {
+                    return '<b>' + this.point.category + '</b><br/>' +
+                       (this.point.y)+ ' % change';
+                }
+            },
+
+                series: [{
+                    name: 'Decreases',
+                    data: [-18, -13.6, -32.6, -30.9, -28.4]
+                }, {
+                    name: 'Increases',
+                    data: [45.6, 40.4, 14.4, 16.6, 28.7]
+                }]
+            });
+
+    };
+
+</script>
+</body>
+
+</html>

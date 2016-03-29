@@ -1,0 +1,10 @@
+.chart1 {
+border: none;
+}
+
+.row {
+  padding-right: 0px;
+  margin-right: -15px;
+}
+
+html, body { overflow-x: hidden; }

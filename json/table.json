@@ -1,0 +1,3026 @@
+[
+  {
+    "State":"AK",
+    "Year":2014,
+    "Sheltered Homeless":"1,639",
+    "Unsheltered Homeless":"145",
+    "Total Homeless, 2014":"1,784"
+  },
+  {
+    "State":"AL",
+    "Year":2014,
+    "Sheltered Homeless":"3,518",
+    "Unsheltered Homeless":"1,043",
+    "Total Homeless, 2014":"4,561"
+  },
+  {
+    "State":"AR",
+    "Year":2014,
+    "Sheltered Homeless":"1,503",
+    "Unsheltered Homeless":"1,433",
+    "Total Homeless, 2014":"2,936"
+  },
+  {
+    "State":"AZ",
+    "Year":2014,
+    "Sheltered Homeless":"7,926",
+    "Unsheltered Homeless":"2,569",
+    "Total Homeless, 2014":"10,495"
+  },
+  {
+    "State":"CA",
+    "Year":2014,
+    "Sheltered Homeless":"42,515",
+    "Unsheltered Homeless":"71,437",
+    "Total Homeless, 2014":"113,952"
+  },
+  {
+    "State":"CO",
+    "Year":2014,
+    "Sheltered Homeless":"8,083",
+    "Unsheltered Homeless":"1,945",
+    "Total Homeless, 2014":"10,028"
+  },
+  {
+    "State":"CT",
+    "Year":2014,
+    "Sheltered Homeless":"3,531",
+    "Unsheltered Homeless":"919",
+    "Total Homeless, 2014":"4,450"
+  },
+  {
+    "State":"DC",
+    "Year":2014,
+    "Sheltered Homeless":"7,352",
+    "Unsheltered Homeless":"396",
+    "Total Homeless, 2014":"7,748"
+  },
+  {
+    "State":"DE",
+    "Year":2014,
+    "Sheltered Homeless":"864",
+    "Unsheltered Homeless":"37",
+    "Total Homeless, 2014":"901"
+  },
+  {
+    "State":"FL",
+    "Year":2014,
+    "Sheltered Homeless":"19,851",
+    "Unsheltered Homeless":"21,691",
+    "Total Homeless, 2014":"41,542"
+  },
+  {
+    "State":"GA",
+    "Year":2014,
+    "Sheltered Homeless":"8,214",
+    "Unsheltered Homeless":"8,307",
+    "Total Homeless, 2014":"16,521"
+  },
+  {
+    "State":"GU",
+    "Year":2014,
+    "Sheltered Homeless":"126",
+    "Unsheltered Homeless":"1,230",
+    "Total Homeless, 2014":"1,356"
+  },
+  {
+    "State":"HI",
+    "Year":2014,
+    "Sheltered Homeless":"3,813",
+    "Unsheltered Homeless":"3,105",
+    "Total Homeless, 2014":"6,918"
+  },
+  {
+    "State":"IA",
+    "Year":2014,
+    "Sheltered Homeless":"2,926",
+    "Unsheltered Homeless":"196",
+    "Total Homeless, 2014":"3,122"
+  },
+  {
+    "State":"ID",
+    "Year":2014,
+    "Sheltered Homeless":"1,468",
+    "Unsheltered Homeless":"636",
+    "Total Homeless, 2014":"2,104"
+  },
+  {
+    "State":"IL",
+    "Year":2014,
+    "Sheltered Homeless":"11,409",
+    "Unsheltered Homeless":"1,698",
+    "Total Homeless, 2014":"13,107"
+  },
+  {
+    "State":"IN",
+    "Year":2014,
+    "Sheltered Homeless":"5,568",
+    "Unsheltered Homeless":"403",
+    "Total Homeless, 2014":"5,971"
+  },
+  {
+    "State":"KS",
+    "Year":2014,
+    "Sheltered Homeless":"2,534",
+    "Unsheltered Homeless":"249",
+    "Total Homeless, 2014":"2,783"
+  },
+  {
+    "State":"KY",
+    "Year":2014,
+    "Sheltered Homeless":"4,258",
+    "Unsheltered Homeless":"831",
+    "Total Homeless, 2014":"5,089"
+  },
+  {
+    "State":"LA",
+    "Year":2014,
+    "Sheltered Homeless":"3,503",
+    "Unsheltered Homeless":"1,103",
+    "Total Homeless, 2014":"4,606"
+  },
+  {
+    "State":"MA",
+    "Year":2014,
+    "Sheltered Homeless":"20,478",
+    "Unsheltered Homeless":"759",
+    "Total Homeless, 2014":"21,237"
+  },
+  {
+    "State":"MD",
+    "Year":2014,
+    "Sheltered Homeless":"6,267",
+    "Unsheltered Homeless":"1,589",
+    "Total Homeless, 2014":"7,856"
+  },
+  {
+    "State":"ME",
+    "Year":2014,
+    "Sheltered Homeless":"2,633",
+    "Unsheltered Homeless":"93",
+    "Total Homeless, 2014":"2,726"
+  },
+  {
+    "State":"MI",
+    "Year":2014,
+    "Sheltered Homeless":"10,075",
+    "Unsheltered Homeless":"2,152",
+    "Total Homeless, 2014":"12,227"
+  },
+  {
+    "State":"MN",
+    "Year":2014,
+    "Sheltered Homeless":"7,582",
+    "Unsheltered Homeless":"795",
+    "Total Homeless, 2014":"8,377"
+  },
+  {
+    "State":"MO",
+    "Year":2014,
+    "Sheltered Homeless":"6,309",
+    "Unsheltered Homeless":"973",
+    "Total Homeless, 2014":"7,282"
+  },
+  {
+    "State":"MS",
+    "Year":2014,
+    "Sheltered Homeless":"1,405",
+    "Unsheltered Homeless":"821",
+    "Total Homeless, 2014":"2,226"
+  },
+  {
+    "State":"MT",
+    "Year":2014,
+    "Sheltered Homeless":"911",
+    "Unsheltered Homeless":"834",
+    "Total Homeless, 2014":"1,745"
+  },
+  {
+    "State":"NC",
+    "Year":2014,
+    "Sheltered Homeless":"8,874",
+    "Unsheltered Homeless":"2,617",
+    "Total Homeless, 2014":"11,491"
+  },
+  {
+    "State":"ND",
+    "Year":2014,
+    "Sheltered Homeless":"794",
+    "Unsheltered Homeless":"464",
+    "Total Homeless, 2014":"1,258"
+  },
+  {
+    "State":"NE",
+    "Year":2014,
+    "Sheltered Homeless":"2,917",
+    "Unsheltered Homeless":"109",
+    "Total Homeless, 2014":"3,026"
+  },
+  {
+    "State":"NH",
+    "Year":2014,
+    "Sheltered Homeless":"1,243",
+    "Unsheltered Homeless":"133",
+    "Total Homeless, 2014":"1,376"
+  },
+  {
+    "State":"NJ",
+    "Year":2014,
+    "Sheltered Homeless":"10,736",
+    "Unsheltered Homeless":"935",
+    "Total Homeless, 2014":"11,671"
+  },
+  {
+    "State":"NM",
+    "Year":2014,
+    "Sheltered Homeless":"2,318",
+    "Unsheltered Homeless":"428",
+    "Total Homeless, 2014":"2,746"
+  },
+  {
+    "State":"NV",
+    "Year":2014,
+    "Sheltered Homeless":"4,797",
+    "Unsheltered Homeless":"5,759",
+    "Total Homeless, 2014":"10,556"
+  },
+  {
+    "State":"NY",
+    "Year":2014,
+    "Sheltered Homeless":"76,487",
+    "Unsheltered Homeless":"4,103",
+    "Total Homeless, 2014":"80,590"
+  },
+  {
+    "State":"OH",
+    "Year":2014,
+    "Sheltered Homeless":"10,720",
+    "Unsheltered Homeless":"1,103",
+    "Total Homeless, 2014":"11,823"
+  },
+  {
+    "State":"OK",
+    "Year":2014,
+    "Sheltered Homeless":"3,259",
+    "Unsheltered Homeless":"932",
+    "Total Homeless, 2014":"4,191"
+  },
+  {
+    "State":"OR",
+    "Year":2014,
+    "Sheltered Homeless":"6,101",
+    "Unsheltered Homeless":"6,063",
+    "Total Homeless, 2014":"12,164"
+  },
+  {
+    "State":"PA",
+    "Year":2014,
+    "Sheltered Homeless":"14,301",
+    "Unsheltered Homeless":"1,032",
+    "Total Homeless, 2014":"15,333"
+  },
+  {
+    "State":"PR",
+    "Year":2014,
+    "Sheltered Homeless":"1,406",
+    "Unsheltered Homeless":"2,726",
+    "Total Homeless, 2014":"4,132"
+  },
+  {
+    "State":"RI",
+    "Year":2014,
+    "Sheltered Homeless":"1,170",
+    "Unsheltered Homeless":"20",
+    "Total Homeless, 2014":"1,190"
+  },
+  {
+    "State":"SC",
+    "Year":2014,
+    "Sheltered Homeless":"3,249",
+    "Unsheltered Homeless":"1,808",
+    "Total Homeless, 2014":"5,057"
+  },
+  {
+    "State":"SD",
+    "Year":2014,
+    "Sheltered Homeless":"830",
+    "Unsheltered Homeless":"55",
+    "Total Homeless, 2014":"885"
+  },
+  {
+    "State":"TN",
+    "Year":2014,
+    "Sheltered Homeless":"6,383",
+    "Unsheltered Homeless":"3,032",
+    "Total Homeless, 2014":"9,415"
+  },
+  {
+    "State":"TX",
+    "Year":2014,
+    "Sheltered Homeless":"18,228",
+    "Unsheltered Homeless":"10,267",
+    "Total Homeless, 2014":"28,495"
+  },
+  {
+    "State":"UT",
+    "Year":2014,
+    "Sheltered Homeless":"2,768",
+    "Unsheltered Homeless":"313",
+    "Total Homeless, 2014":"3,081"
+  },
+  {
+    "State":"VA",
+    "Year":2014,
+    "Sheltered Homeless":"6,330",
+    "Unsheltered Homeless":"690",
+    "Total Homeless, 2014":"7,020"
+  },
+  {
+    "State":"VI",
+    "Year":2014,
+    "Sheltered Homeless":"85",
+    "Unsheltered Homeless":"363",
+    "Total Homeless, 2014":"448"
+  },
+  {
+    "State":"VT",
+    "Year":2014,
+    "Sheltered Homeless":"1,396",
+    "Unsheltered Homeless":"163",
+    "Total Homeless, 2014":"1,559"
+  },
+  {
+    "State":"WA",
+    "Year":2014,
+    "Sheltered Homeless":"12,540",
+    "Unsheltered Homeless":"5,902",
+    "Total Homeless, 2014":"18,442"
+  },
+  {
+    "State":"WI",
+    "Year":2014,
+    "Sheltered Homeless":"5,712",
+    "Unsheltered Homeless":"343",
+    "Total Homeless, 2014":"6,055"
+  },
+  {
+    "State":"WV",
+    "Year":2014,
+    "Sheltered Homeless":"1,583",
+    "Unsheltered Homeless":"430",
+    "Total Homeless, 2014":"2,013"
+  },
+  {
+    "State":"WY",
+    "Year":2014,
+    "Sheltered Homeless":"563",
+    "Unsheltered Homeless":"194",
+    "Total Homeless, 2014":"757"
+  },
+  {
+    "State":"AK",
+    "Year":2013,
+    "Sheltered Homeless":"1,741",
+    "Unsheltered Homeless":"205",
+    "Total Homeless, 2014":"1,946"
+  },
+  {
+    "State":"AL",
+    "Year":2013,
+    "Sheltered Homeless":"3,246",
+    "Unsheltered Homeless":"1,443",
+    "Total Homeless, 2014":"4,689"
+  },
+  {
+    "State":"AR",
+    "Year":2013,
+    "Sheltered Homeless":"1,664",
+    "Unsheltered Homeless":"2,148",
+    "Total Homeless, 2014":"3,812"
+  },
+  {
+    "State":"AZ",
+    "Year":2013,
+    "Sheltered Homeless":"7,431",
+    "Unsheltered Homeless":"3,131",
+    "Total Homeless, 2014":"10,562"
+  },
+  {
+    "State":"CA",
+    "Year":2013,
+    "Sheltered Homeless":"45,554",
+    "Unsheltered Homeless":"72,998",
+    "Total Homeless, 2014":"118,552"
+  },
+  {
+    "State":"CO",
+    "Year":2013,
+    "Sheltered Homeless":"7,591",
+    "Unsheltered Homeless":"2,163",
+    "Total Homeless, 2014":"9,754"
+  },
+  {
+    "State":"CT",
+    "Year":2013,
+    "Sheltered Homeless":"3,529",
+    "Unsheltered Homeless":"919",
+    "Total Homeless, 2014":"4,448"
+  },
+  {
+    "State":"DC",
+    "Year":2013,
+    "Sheltered Homeless":"6,353",
+    "Unsheltered Homeless":"512",
+    "Total Homeless, 2014":"6,865"
+  },
+  {
+    "State":"DE",
+    "Year":2013,
+    "Sheltered Homeless":"936",
+    "Unsheltered Homeless":"10",
+    "Total Homeless, 2014":"946"
+  },
+  {
+    "State":"FL",
+    "Year":2013,
+    "Sheltered Homeless":"19,670",
+    "Unsheltered Homeless":"28,192",
+    "Total Homeless, 2014":"47,862"
+  },
+  {
+    "State":"GA",
+    "Year":2013,
+    "Sheltered Homeless":"8,510",
+    "Unsheltered Homeless":"8,461",
+    "Total Homeless, 2014":"16,971"
+  },
+  {
+    "State":"GU",
+    "Year":2013,
+    "Sheltered Homeless":"128",
+    "Unsheltered Homeless":"1,143",
+    "Total Homeless, 2014":"1,271"
+  },
+  {
+    "State":"HI",
+    "Year":2013,
+    "Sheltered Homeless":"3,745",
+    "Unsheltered Homeless":"2,590",
+    "Total Homeless, 2014":"6,335"
+  },
+  {
+    "State":"IA",
+    "Year":2013,
+    "Sheltered Homeless":"2,950",
+    "Unsheltered Homeless":"134",
+    "Total Homeless, 2014":"3,084"
+  },
+  {
+    "State":"ID",
+    "Year":2013,
+    "Sheltered Homeless":"1,404",
+    "Unsheltered Homeless":"377",
+    "Total Homeless, 2014":"1,781"
+  },
+  {
+    "State":"IL",
+    "Year":2013,
+    "Sheltered Homeless":"11,229",
+    "Unsheltered Homeless":"2,196",
+    "Total Homeless, 2014":"13,425"
+  },
+  {
+    "State":"IN",
+    "Year":2013,
+    "Sheltered Homeless":"5,396",
+    "Unsheltered Homeless":"700",
+    "Total Homeless, 2014":"6,096"
+  },
+  {
+    "State":"KS",
+    "Year":2013,
+    "Sheltered Homeless":"2,382",
+    "Unsheltered Homeless":"311",
+    "Total Homeless, 2014":"2,693"
+  },
+  {
+    "State":"KY",
+    "Year":2013,
+    "Sheltered Homeless":"4,491",
+    "Unsheltered Homeless":"754",
+    "Total Homeless, 2014":"5,245"
+  },
+  {
+    "State":"LA",
+    "Year":2013,
+    "Sheltered Homeless":"3,651",
+    "Unsheltered Homeless":"1,575",
+    "Total Homeless, 2014":"5,226"
+  },
+  {
+    "State":"MA",
+    "Year":2013,
+    "Sheltered Homeless":"18,179",
+    "Unsheltered Homeless":"850",
+    "Total Homeless, 2014":"19,029"
+  },
+  {
+    "State":"MD",
+    "Year":2013,
+    "Sheltered Homeless":"6,283",
+    "Unsheltered Homeless":"1,922",
+    "Total Homeless, 2014":"8,205"
+  },
+  {
+    "State":"ME",
+    "Year":2013,
+    "Sheltered Homeless":"2,954",
+    "Unsheltered Homeless":"62",
+    "Total Homeless, 2014":"3,016"
+  },
+  {
+    "State":"MI",
+    "Year":2013,
+    "Sheltered Homeless":"9,339",
+    "Unsheltered Homeless":"2,188",
+    "Total Homeless, 2014":"11,527"
+  },
+  {
+    "State":"MN",
+    "Year":2013,
+    "Sheltered Homeless":"7,299",
+    "Unsheltered Homeless":"915",
+    "Total Homeless, 2014":"8,214"
+  },
+  {
+    "State":"MO",
+    "Year":2013,
+    "Sheltered Homeless":"6,501",
+    "Unsheltered Homeless":"2,080",
+    "Total Homeless, 2014":"8,581"
+  },
+  {
+    "State":"MS",
+    "Year":2013,
+    "Sheltered Homeless":"1,083",
+    "Unsheltered Homeless":"1,320",
+    "Total Homeless, 2014":"2,403"
+  },
+  {
+    "State":"MT",
+    "Year":2013,
+    "Sheltered Homeless":"1,094",
+    "Unsheltered Homeless":"784",
+    "Total Homeless, 2014":"1,878"
+  },
+  {
+    "State":"NC",
+    "Year":2013,
+    "Sheltered Homeless":"9,013",
+    "Unsheltered Homeless":"3,155",
+    "Total Homeless, 2014":"12,168"
+  },
+  {
+    "State":"ND",
+    "Year":2013,
+    "Sheltered Homeless":"674",
+    "Unsheltered Homeless":"1,395",
+    "Total Homeless, 2014":"2,069"
+  },
+  {
+    "State":"NE",
+    "Year":2013,
+    "Sheltered Homeless":"2,972",
+    "Unsheltered Homeless":"173",
+    "Total Homeless, 2014":"3,145"
+  },
+  {
+    "State":"NH",
+    "Year":2013,
+    "Sheltered Homeless":"1,245",
+    "Unsheltered Homeless":"202",
+    "Total Homeless, 2014":"1,447"
+  },
+  {
+    "State":"NJ",
+    "Year":2013,
+    "Sheltered Homeless":"10,603",
+    "Unsheltered Homeless":"1,399",
+    "Total Homeless, 2014":"12,002"
+  },
+  {
+    "State":"NM",
+    "Year":2013,
+    "Sheltered Homeless":"2,391",
+    "Unsheltered Homeless":"428",
+    "Total Homeless, 2014":"2,819"
+  },
+  {
+    "State":"NV",
+    "Year":2013,
+    "Sheltered Homeless":"3,698",
+    "Unsheltered Homeless":"4,745",
+    "Total Homeless, 2014":"8,443"
+  },
+  {
+    "State":"NY",
+    "Year":2013,
+    "Sheltered Homeless":"73,273",
+    "Unsheltered Homeless":"4,157",
+    "Total Homeless, 2014":"77,430"
+  },
+  {
+    "State":"OH",
+    "Year":2013,
+    "Sheltered Homeless":"10,987",
+    "Unsheltered Homeless":"1,338",
+    "Total Homeless, 2014":"12,325"
+  },
+  {
+    "State":"OK",
+    "Year":2013,
+    "Sheltered Homeless":"3,262",
+    "Unsheltered Homeless":"1,146",
+    "Total Homeless, 2014":"4,408"
+  },
+  {
+    "State":"OR",
+    "Year":2013,
+    "Sheltered Homeless":"6,432",
+    "Unsheltered Homeless":"7,390",
+    "Total Homeless, 2014":"13,822"
+  },
+  {
+    "State":"PA",
+    "Year":2013,
+    "Sheltered Homeless":"13,727",
+    "Unsheltered Homeless":"1,359",
+    "Total Homeless, 2014":"15,086"
+  },
+  {
+    "State":"PR",
+    "Year":2013,
+    "Sheltered Homeless":"1,402",
+    "Unsheltered Homeless":"2,726",
+    "Total Homeless, 2014":"4,128"
+  },
+  {
+    "State":"RI",
+    "Year":2013,
+    "Sheltered Homeless":"1,267",
+    "Unsheltered Homeless":"117",
+    "Total Homeless, 2014":"1,384"
+  },
+  {
+    "State":"SC",
+    "Year":2013,
+    "Sheltered Homeless":"3,411",
+    "Unsheltered Homeless":"3,133",
+    "Total Homeless, 2014":"6,544"
+  },
+  {
+    "State":"SD",
+    "Year":2013,
+    "Sheltered Homeless":"755",
+    "Unsheltered Homeless":"339",
+    "Total Homeless, 2014":"1,094"
+  },
+  {
+    "State":"TN",
+    "Year":2013,
+    "Sheltered Homeless":"6,321",
+    "Unsheltered Homeless":"3,207",
+    "Total Homeless, 2014":"9,528"
+  },
+  {
+    "State":"TX",
+    "Year":2013,
+    "Sheltered Homeless":"17,525",
+    "Unsheltered Homeless":"12,090",
+    "Total Homeless, 2014":"29,615"
+  },
+  {
+    "State":"UT",
+    "Year":2013,
+    "Sheltered Homeless":"2,859",
+    "Unsheltered Homeless":"418",
+    "Total Homeless, 2014":"3,277"
+  },
+  {
+    "State":"VA",
+    "Year":2013,
+    "Sheltered Homeless":"6,603",
+    "Unsheltered Homeless":"1,022",
+    "Total Homeless, 2014":"7,625"
+  },
+  {
+    "State":"VI",
+    "Year":2013,
+    "Sheltered Homeless":"119",
+    "Unsheltered Homeless":"363",
+    "Total Homeless, 2014":"482"
+  },
+  {
+    "State":"VT",
+    "Year":2013,
+    "Sheltered Homeless":"1,270",
+    "Unsheltered Homeless":"184",
+    "Total Homeless, 2014":"1,454"
+  },
+  {
+    "State":"WA",
+    "Year":2013,
+    "Sheltered Homeless":"12,707",
+    "Unsheltered Homeless":"5,053",
+    "Total Homeless, 2014":"17,760"
+  },
+  {
+    "State":"WI",
+    "Year":2013,
+    "Sheltered Homeless":"5,736",
+    "Unsheltered Homeless":"368",
+    "Total Homeless, 2014":"6,104"
+  },
+  {
+    "State":"WV",
+    "Year":2013,
+    "Sheltered Homeless":"1,612",
+    "Unsheltered Homeless":"628",
+    "Total Homeless, 2014":"2,240"
+  },
+  {
+    "State":"WY",
+    "Year":2013,
+    "Sheltered Homeless":"501",
+    "Unsheltered Homeless":"452",
+    "Total Homeless, 2014":"953"
+  },
+  {
+    "State":"AK",
+    "Year":2012,
+    "Sheltered Homeless":"1,716",
+    "Unsheltered Homeless":"197",
+    "Total Homeless, 2014":"1,913"
+  },
+  {
+    "State":"AL",
+    "Year":2012,
+    "Sheltered Homeless":"3,664",
+    "Unsheltered Homeless":"1,545",
+    "Total Homeless, 2014":"5,209"
+  },
+  {
+    "State":"AR",
+    "Year":2012,
+    "Sheltered Homeless":"1,602",
+    "Unsheltered Homeless":"2,612",
+    "Total Homeless, 2014":"4,214"
+  },
+  {
+    "State":"AZ",
+    "Year":2012,
+    "Sheltered Homeless":"8,215",
+    "Unsheltered Homeless":"3,087",
+    "Total Homeless, 2014":"11,302"
+  },
+  {
+    "State":"CA",
+    "Year":2012,
+    "Sheltered Homeless":"45,890",
+    "Unsheltered Homeless":"74,208",
+    "Total Homeless, 2014":"120,098"
+  },
+  {
+    "State":"CO",
+    "Year":2012,
+    "Sheltered Homeless":"7,260",
+    "Unsheltered Homeless":"9,508",
+    "Total Homeless, 2014":"16,768"
+  },
+  {
+    "State":"CT",
+    "Year":2012,
+    "Sheltered Homeless":"3,514",
+    "Unsheltered Homeless":"695",
+    "Total Homeless, 2014":"4,209"
+  },
+  {
+    "State":"DC",
+    "Year":2012,
+    "Sheltered Homeless":"6,275",
+    "Unsheltered Homeless":"679",
+    "Total Homeless, 2014":"6,954"
+  },
+  {
+    "State":"DE",
+    "Year":2012,
+    "Sheltered Homeless":"986",
+    "Unsheltered Homeless":"22",
+    "Total Homeless, 2014":"1,008"
+  },
+  {
+    "State":"FL",
+    "Year":2012,
+    "Sheltered Homeless":"19,832",
+    "Unsheltered Homeless":"35,338",
+    "Total Homeless, 2014":"55,170"
+  },
+  {
+    "State":"GA",
+    "Year":2012,
+    "Sheltered Homeless":"8,320",
+    "Unsheltered Homeless":"12,196",
+    "Total Homeless, 2014":"20,516"
+  },
+  {
+    "State":"GU",
+    "Year":2012,
+    "Sheltered Homeless":"187",
+    "Unsheltered Homeless":"1,114",
+    "Total Homeless, 2014":"1,301"
+  },
+  {
+    "State":"HI",
+    "Year":2012,
+    "Sheltered Homeless":"3,726",
+    "Unsheltered Homeless":"2,520",
+    "Total Homeless, 2014":"6,246"
+  },
+  {
+    "State":"IA",
+    "Year":2012,
+    "Sheltered Homeless":"2,780",
+    "Unsheltered Homeless":"148",
+    "Total Homeless, 2014":"2,928"
+  },
+  {
+    "State":"ID",
+    "Year":2012,
+    "Sheltered Homeless":"1,482",
+    "Unsheltered Homeless":"486",
+    "Total Homeless, 2014":"1,968"
+  },
+  {
+    "State":"IL",
+    "Year":2012,
+    "Sheltered Homeless":"11,149",
+    "Unsheltered Homeless":"2,995",
+    "Total Homeless, 2014":"14,144"
+  },
+  {
+    "State":"IN",
+    "Year":2012,
+    "Sheltered Homeless":"5,370",
+    "Unsheltered Homeless":"889",
+    "Total Homeless, 2014":"6,259"
+  },
+  {
+    "State":"KS",
+    "Year":2012,
+    "Sheltered Homeless":"2,350",
+    "Unsheltered Homeless":"334",
+    "Total Homeless, 2014":"2,684"
+  },
+  {
+    "State":"KY",
+    "Year":2012,
+    "Sheltered Homeless":"4,319",
+    "Unsheltered Homeless":"911",
+    "Total Homeless, 2014":"5,230"
+  },
+  {
+    "State":"LA",
+    "Year":2012,
+    "Sheltered Homeless":"3,807",
+    "Unsheltered Homeless":"3,965",
+    "Total Homeless, 2014":"7,772"
+  },
+  {
+    "State":"MA",
+    "Year":2012,
+    "Sheltered Homeless":"16,779",
+    "Unsheltered Homeless":"722",
+    "Total Homeless, 2014":"17,501"
+  },
+  {
+    "State":"MD",
+    "Year":2012,
+    "Sheltered Homeless":"5,942",
+    "Unsheltered Homeless":"3,512",
+    "Total Homeless, 2014":"9,454"
+  },
+  {
+    "State":"ME",
+    "Year":2012,
+    "Sheltered Homeless":"2,360",
+    "Unsheltered Homeless":"33",
+    "Total Homeless, 2014":"2,393"
+  },
+  {
+    "State":"MI",
+    "Year":2012,
+    "Sheltered Homeless":"10,270",
+    "Unsheltered Homeless":"2,322",
+    "Total Homeless, 2014":"12,592"
+  },
+  {
+    "State":"MN",
+    "Year":2012,
+    "Sheltered Homeless":"6,754",
+    "Unsheltered Homeless":"990",
+    "Total Homeless, 2014":"7,744"
+  },
+  {
+    "State":"MO",
+    "Year":2012,
+    "Sheltered Homeless":"7,893",
+    "Unsheltered Homeless":"2,344",
+    "Total Homeless, 2014":"10,237"
+  },
+  {
+    "State":"MS",
+    "Year":2012,
+    "Sheltered Homeless":"1,042",
+    "Unsheltered Homeless":"1,371",
+    "Total Homeless, 2014":"2,413"
+  },
+  {
+    "State":"MT",
+    "Year":2012,
+    "Sheltered Homeless":"1,153",
+    "Unsheltered Homeless":"680",
+    "Total Homeless, 2014":"1,833"
+  },
+  {
+    "State":"NC",
+    "Year":2012,
+    "Sheltered Homeless":"8,809",
+    "Unsheltered Homeless":"4,715",
+    "Total Homeless, 2014":"13,524"
+  },
+  {
+    "State":"ND",
+    "Year":2012,
+    "Sheltered Homeless":"635",
+    "Unsheltered Homeless":"53",
+    "Total Homeless, 2014":"688"
+  },
+  {
+    "State":"NE",
+    "Year":2012,
+    "Sheltered Homeless":"2,957",
+    "Unsheltered Homeless":"832",
+    "Total Homeless, 2014":"3,789"
+  },
+  {
+    "State":"NH",
+    "Year":2012,
+    "Sheltered Homeless":"1,329",
+    "Unsheltered Homeless":"167",
+    "Total Homeless, 2014":"1,496"
+  },
+  {
+    "State":"NJ",
+    "Year":2012,
+    "Sheltered Homeless":"11,429",
+    "Unsheltered Homeless":"1,596",
+    "Total Homeless, 2014":"13,025"
+  },
+  {
+    "State":"NM",
+    "Year":2012,
+    "Sheltered Homeless":"2,397",
+    "Unsheltered Homeless":"848",
+    "Total Homeless, 2014":"3,245"
+  },
+  {
+    "State":"NV",
+    "Year":2012,
+    "Sheltered Homeless":"3,970",
+    "Unsheltered Homeless":"5,956",
+    "Total Homeless, 2014":"9,926"
+  },
+  {
+    "State":"NY",
+    "Year":2012,
+    "Sheltered Homeless":"65,482",
+    "Unsheltered Homeless":"4,084",
+    "Total Homeless, 2014":"69,566"
+  },
+  {
+    "State":"OH",
+    "Year":2012,
+    "Sheltered Homeless":"12,246",
+    "Unsheltered Homeless":"1,731",
+    "Total Homeless, 2014":"13,977"
+  },
+  {
+    "State":"OK",
+    "Year":2012,
+    "Sheltered Homeless":"3,043",
+    "Unsheltered Homeless":"1,989",
+    "Total Homeless, 2014":"5,032"
+  },
+  {
+    "State":"OR",
+    "Year":2012,
+    "Sheltered Homeless":"6,545",
+    "Unsheltered Homeless":"9,283",
+    "Total Homeless, 2014":"15,828"
+  },
+  {
+    "State":"PA",
+    "Year":2012,
+    "Sheltered Homeless":"13,660",
+    "Unsheltered Homeless":"1,076",
+    "Total Homeless, 2014":"14,736"
+  },
+  {
+    "State":"PR",
+    "Year":2012,
+    "Sheltered Homeless":"1,346",
+    "Unsheltered Homeless":"1,866",
+    "Total Homeless, 2014":"3,212"
+  },
+  {
+    "State":"RI",
+    "Year":2012,
+    "Sheltered Homeless":"1,249",
+    "Unsheltered Homeless":"28",
+    "Total Homeless, 2014":"1,277"
+  },
+  {
+    "State":"SC",
+    "Year":2012,
+    "Sheltered Homeless":"2,776",
+    "Unsheltered Homeless":"2,139",
+    "Total Homeless, 2014":"4,915"
+  },
+  {
+    "State":"SD",
+    "Year":2012,
+    "Sheltered Homeless":"795",
+    "Unsheltered Homeless":"64",
+    "Total Homeless, 2014":"859"
+  },
+  {
+    "State":"TN",
+    "Year":2012,
+    "Sheltered Homeless":"5,778",
+    "Unsheltered Homeless":"3,648",
+    "Total Homeless, 2014":"9,426"
+  },
+  {
+    "State":"TX",
+    "Year":2012,
+    "Sheltered Homeless":"17,501",
+    "Unsheltered Homeless":"16,551",
+    "Total Homeless, 2014":"34,052"
+  },
+  {
+    "State":"UT",
+    "Year":2012,
+    "Sheltered Homeless":"3,052",
+    "Unsheltered Homeless":"475",
+    "Total Homeless, 2014":"3,527"
+  },
+  {
+    "State":"VA",
+    "Year":2012,
+    "Sheltered Homeless":"6,995",
+    "Unsheltered Homeless":"1,429",
+    "Total Homeless, 2014":"8,424"
+  },
+  {
+    "State":"VI",
+    "Year":2012,
+    "Sheltered Homeless":"106",
+    "Unsheltered Homeless":"378",
+    "Total Homeless, 2014":"484"
+  },
+  {
+    "State":"VT",
+    "Year":2012,
+    "Sheltered Homeless":"937",
+    "Unsheltered Homeless":"223",
+    "Total Homeless, 2014":"1,160"
+  },
+  {
+    "State":"WA",
+    "Year":2012,
+    "Sheltered Homeless":"15,027",
+    "Unsheltered Homeless":"5,477",
+    "Total Homeless, 2014":"20,504"
+  },
+  {
+    "State":"WI",
+    "Year":2012,
+    "Sheltered Homeless":"5,446",
+    "Unsheltered Homeless":"581",
+    "Total Homeless, 2014":"6,027"
+  },
+  {
+    "State":"WV",
+    "Year":2012,
+    "Sheltered Homeless":"1,533",
+    "Unsheltered Homeless":"877",
+    "Total Homeless, 2014":"2,410"
+  },
+  {
+    "State":"WY",
+    "Year":2012,
+    "Sheltered Homeless":"475",
+    "Unsheltered Homeless":"1,338",
+    "Total Homeless, 2014":"1,813"
+  },
+  {
+    "State":"AK",
+    "Year":2011,
+    "Sheltered Homeless":"1,760",
+    "Unsheltered Homeless":"368",
+    "Total Homeless, 2014":"2,128"
+  },
+  {
+    "State":"AL",
+    "Year":2011,
+    "Sheltered Homeless":"3,749",
+    "Unsheltered Homeless":"1,809",
+    "Total Homeless, 2014":"5,558"
+  },
+  {
+    "State":"AR",
+    "Year":2011,
+    "Sheltered Homeless":"1,802",
+    "Unsheltered Homeless":"1,622",
+    "Total Homeless, 2014":"3,424"
+  },
+  {
+    "State":"AZ",
+    "Year":2011,
+    "Sheltered Homeless":"7,302",
+    "Unsheltered Homeless":"3,202",
+    "Total Homeless, 2014":"10,504"
+  },
+  {
+    "State":"CA",
+    "Year":2011,
+    "Sheltered Homeless":"50,691",
+    "Unsheltered Homeless":"74,437",
+    "Total Homeless, 2014":"125,128"
+  },
+  {
+    "State":"CO",
+    "Year":2011,
+    "Sheltered Homeless":"6,146",
+    "Unsheltered Homeless":"8,970",
+    "Total Homeless, 2014":"15,116"
+  },
+  {
+    "State":"CT",
+    "Year":2011,
+    "Sheltered Homeless":"3,761",
+    "Unsheltered Homeless":"695",
+    "Total Homeless, 2014":"4,456"
+  },
+  {
+    "State":"DC",
+    "Year":2011,
+    "Sheltered Homeless":"6,241",
+    "Unsheltered Homeless":"305",
+    "Total Homeless, 2014":"6,546"
+  },
+  {
+    "State":"DE",
+    "Year":2011,
+    "Sheltered Homeless":"1,013",
+    "Unsheltered Homeless":"22",
+    "Total Homeless, 2014":"1,035"
+  },
+  {
+    "State":"FL",
+    "Year":2011,
+    "Sheltered Homeless":"20,824",
+    "Unsheltered Homeless":"35,863",
+    "Total Homeless, 2014":"56,687"
+  },
+  {
+    "State":"GA",
+    "Year":2011,
+    "Sheltered Homeless":"8,723",
+    "Unsheltered Homeless":"12,252",
+    "Total Homeless, 2014":"20,975"
+  },
+  {
+    "State":"GU",
+    "Year":2011,
+    "Sheltered Homeless":"204",
+    "Unsheltered Homeless":"1,541",
+    "Total Homeless, 2014":"1,745"
+  },
+  {
+    "State":"HI",
+    "Year":2011,
+    "Sheltered Homeless":"3,632",
+    "Unsheltered Homeless":"2,556",
+    "Total Homeless, 2014":"6,188"
+  },
+  {
+    "State":"IA",
+    "Year":2011,
+    "Sheltered Homeless":"3,013",
+    "Unsheltered Homeless":"121",
+    "Total Homeless, 2014":"3,134"
+  },
+  {
+    "State":"ID",
+    "Year":2011,
+    "Sheltered Homeless":"1,585",
+    "Unsheltered Homeless":"614",
+    "Total Homeless, 2014":"2,199"
+  },
+  {
+    "State":"IL",
+    "Year":2011,
+    "Sheltered Homeless":"11,089",
+    "Unsheltered Homeless":"2,920",
+    "Total Homeless, 2014":"14,009"
+  },
+  {
+    "State":"IN",
+    "Year":2011,
+    "Sheltered Homeless":"5,550",
+    "Unsheltered Homeless":"646",
+    "Total Homeless, 2014":"6,196"
+  },
+  {
+    "State":"KS",
+    "Year":2011,
+    "Sheltered Homeless":"2,222",
+    "Unsheltered Homeless":"289",
+    "Total Homeless, 2014":"2,511"
+  },
+  {
+    "State":"KY",
+    "Year":2011,
+    "Sheltered Homeless":"5,183",
+    "Unsheltered Homeless":"851",
+    "Total Homeless, 2014":"6,034"
+  },
+  {
+    "State":"LA",
+    "Year":2011,
+    "Sheltered Homeless":"3,405",
+    "Unsheltered Homeless":"5,886",
+    "Total Homeless, 2014":"9,291"
+  },
+  {
+    "State":"MA",
+    "Year":2011,
+    "Sheltered Homeless":"15,961",
+    "Unsheltered Homeless":"703",
+    "Total Homeless, 2014":"16,664"
+  },
+  {
+    "State":"MD",
+    "Year":2011,
+    "Sheltered Homeless":"6,496",
+    "Unsheltered Homeless":"3,712",
+    "Total Homeless, 2014":"10,208"
+  },
+  {
+    "State":"ME",
+    "Year":2011,
+    "Sheltered Homeless":"2,418",
+    "Unsheltered Homeless":"29",
+    "Total Homeless, 2014":"2,447"
+  },
+  {
+    "State":"MI",
+    "Year":2011,
+    "Sheltered Homeless":"10,864",
+    "Unsheltered Homeless":"2,321",
+    "Total Homeless, 2014":"13,185"
+  },
+  {
+    "State":"MN",
+    "Year":2011,
+    "Sheltered Homeless":"6,567",
+    "Unsheltered Homeless":"928",
+    "Total Homeless, 2014":"7,495"
+  },
+  {
+    "State":"MO",
+    "Year":2011,
+    "Sheltered Homeless":"6,718",
+    "Unsheltered Homeless":"2,271",
+    "Total Homeless, 2014":"8,989"
+  },
+  {
+    "State":"MS",
+    "Year":2011,
+    "Sheltered Homeless":"1,056",
+    "Unsheltered Homeless":"1,250",
+    "Total Homeless, 2014":"2,306"
+  },
+  {
+    "State":"MT",
+    "Year":2011,
+    "Sheltered Homeless":"1,216",
+    "Unsheltered Homeless":"552",
+    "Total Homeless, 2014":"1,768"
+  },
+  {
+    "State":"NC",
+    "Year":2011,
+    "Sheltered Homeless":"9,245",
+    "Unsheltered Homeless":"3,651",
+    "Total Homeless, 2014":"12,896"
+  },
+  {
+    "State":"ND",
+    "Year":2011,
+    "Sheltered Homeless":"560",
+    "Unsheltered Homeless":"43",
+    "Total Homeless, 2014":"603"
+  },
+  {
+    "State":"NE",
+    "Year":2011,
+    "Sheltered Homeless":"3,041",
+    "Unsheltered Homeless":"507",
+    "Total Homeless, 2014":"3,548"
+  },
+  {
+    "State":"NH",
+    "Year":2011,
+    "Sheltered Homeless":"1,159",
+    "Unsheltered Homeless":"310",
+    "Total Homeless, 2014":"1,469"
+  },
+  {
+    "State":"NJ",
+    "Year":2011,
+    "Sheltered Homeless":"12,830",
+    "Unsheltered Homeless":"1,307",
+    "Total Homeless, 2014":"14,137"
+  },
+  {
+    "State":"NM",
+    "Year":2011,
+    "Sheltered Homeless":"2,753",
+    "Unsheltered Homeless":"848",
+    "Total Homeless, 2014":"3,601"
+  },
+  {
+    "State":"NV",
+    "Year":2011,
+    "Sheltered Homeless":"4,545",
+    "Unsheltered Homeless":"6,034",
+    "Total Homeless, 2014":"10,579"
+  },
+  {
+    "State":"NY",
+    "Year":2011,
+    "Sheltered Homeless":"59,778",
+    "Unsheltered Homeless":"3,667",
+    "Total Homeless, 2014":"63,445"
+  },
+  {
+    "State":"OH",
+    "Year":2011,
+    "Sheltered Homeless":"11,224",
+    "Unsheltered Homeless":"1,806",
+    "Total Homeless, 2014":"13,030"
+  },
+  {
+    "State":"OK",
+    "Year":2011,
+    "Sheltered Homeless":"2,988",
+    "Unsheltered Homeless":"1,637",
+    "Total Homeless, 2014":"4,625"
+  },
+  {
+    "State":"OR",
+    "Year":2011,
+    "Sheltered Homeless":"7,012",
+    "Unsheltered Homeless":"10,242",
+    "Total Homeless, 2014":"17,254"
+  },
+  {
+    "State":"PA",
+    "Year":2011,
+    "Sheltered Homeless":"14,036",
+    "Unsheltered Homeless":"1,060",
+    "Total Homeless, 2014":"15,096"
+  },
+  {
+    "State":"PR",
+    "Year":2011,
+    "Sheltered Homeless":"1,034",
+    "Unsheltered Homeless":"1,866",
+    "Total Homeless, 2014":"2,900"
+  },
+  {
+    "State":"RI",
+    "Year":2011,
+    "Sheltered Homeless":"1,039",
+    "Unsheltered Homeless":"31",
+    "Total Homeless, 2014":"1,070"
+  },
+  {
+    "State":"SC",
+    "Year":2011,
+    "Sheltered Homeless":"2,954",
+    "Unsheltered Homeless":"2,139",
+    "Total Homeless, 2014":"5,093"
+  },
+  {
+    "State":"SD",
+    "Year":2011,
+    "Sheltered Homeless":"762",
+    "Unsheltered Homeless":"64",
+    "Total Homeless, 2014":"826"
+  },
+  {
+    "State":"TN",
+    "Year":2011,
+    "Sheltered Homeless":"5,915",
+    "Unsheltered Homeless":"3,198",
+    "Total Homeless, 2014":"9,113"
+  },
+  {
+    "State":"TX",
+    "Year":2011,
+    "Sheltered Homeless":"18,972",
+    "Unsheltered Homeless":"17,939",
+    "Total Homeless, 2014":"36,911"
+  },
+  {
+    "State":"UT",
+    "Year":2011,
+    "Sheltered Homeless":"2,687",
+    "Unsheltered Homeless":"443",
+    "Total Homeless, 2014":"3,130"
+  },
+  {
+    "State":"VA",
+    "Year":2011,
+    "Sheltered Homeless":"7,386",
+    "Unsheltered Homeless":"1,430",
+    "Total Homeless, 2014":"8,816"
+  },
+  {
+    "State":"VI",
+    "Year":2011,
+    "Sheltered Homeless":"154",
+    "Unsheltered Homeless":"378",
+    "Total Homeless, 2014":"532"
+  },
+  {
+    "State":"VT",
+    "Year":2011,
+    "Sheltered Homeless":"1,021",
+    "Unsheltered Homeless":"123",
+    "Total Homeless, 2014":"1,144"
+  },
+  {
+    "State":"WA",
+    "Year":2011,
+    "Sheltered Homeless":"15,075",
+    "Unsheltered Homeless":"5,364",
+    "Total Homeless, 2014":"20,439"
+  },
+  {
+    "State":"WI",
+    "Year":2011,
+    "Sheltered Homeless":"5,355",
+    "Unsheltered Homeless":"430",
+    "Total Homeless, 2014":"5,785"
+  },
+  {
+    "State":"WV",
+    "Year":2011,
+    "Sheltered Homeless":"1,405",
+    "Unsheltered Homeless":"806",
+    "Total Homeless, 2014":"2,211"
+  },
+  {
+    "State":"WY",
+    "Year":2011,
+    "Sheltered Homeless":"195",
+    "Unsheltered Homeless":"843",
+    "Total Homeless, 2014":"1,038"
+  },
+  {
+    "State":"AK",
+    "Year":2010,
+    "Sheltered Homeless":"1,671",
+    "Unsheltered Homeless":"192",
+    "Total Homeless, 2014":"1,863"
+  },
+  {
+    "State":"AL",
+    "Year":2010,
+    "Sheltered Homeless":"3,891",
+    "Unsheltered Homeless":"2,155",
+    "Total Homeless, 2014":"6,046"
+  },
+  {
+    "State":"AR",
+    "Year":2010,
+    "Sheltered Homeless":"1,728",
+    "Unsheltered Homeless":"1,034",
+    "Total Homeless, 2014":"2,762"
+  },
+  {
+    "State":"AZ",
+    "Year":2010,
+    "Sheltered Homeless":"7,214",
+    "Unsheltered Homeless":"6,497",
+    "Total Homeless, 2014":"13,711"
+  },
+  {
+    "State":"CA",
+    "Year":2010,
+    "Sheltered Homeless":"50,899",
+    "Unsheltered Homeless":"72,581",
+    "Total Homeless, 2014":"123,480"
+  },
+  {
+    "State":"CO",
+    "Year":2010,
+    "Sheltered Homeless":"9,031",
+    "Unsheltered Homeless":"6,451",
+    "Total Homeless, 2014":"15,482"
+  },
+  {
+    "State":"CT",
+    "Year":2010,
+    "Sheltered Homeless":"3,817",
+    "Unsheltered Homeless":"499",
+    "Total Homeless, 2014":"4,316"
+  },
+  {
+    "State":"DC",
+    "Year":2010,
+    "Sheltered Homeless":"6,109",
+    "Unsheltered Homeless":"430",
+    "Total Homeless, 2014":"6,539"
+  },
+  {
+    "State":"DE",
+    "Year":2010,
+    "Sheltered Homeless":"930",
+    "Unsheltered Homeless":"52",
+    "Total Homeless, 2014":"982"
+  },
+  {
+    "State":"FL",
+    "Year":2010,
+    "Sheltered Homeless":"21,817",
+    "Unsheltered Homeless":"35,734",
+    "Total Homeless, 2014":"57,551"
+  },
+  {
+    "State":"GA",
+    "Year":2010,
+    "Sheltered Homeless":"8,746",
+    "Unsheltered Homeless":"11,090",
+    "Total Homeless, 2014":"19,836"
+  },
+  {
+    "State":"GU",
+    "Year":2010,
+    "Sheltered Homeless":"182",
+    "Unsheltered Homeless":"1,453",
+    "Total Homeless, 2014":"1,635"
+  },
+  {
+    "State":"HI",
+    "Year":2010,
+    "Sheltered Homeless":"3,535",
+    "Unsheltered Homeless":"2,299",
+    "Total Homeless, 2014":"5,834"
+  },
+  {
+    "State":"IA",
+    "Year":2010,
+    "Sheltered Homeless":"2,903",
+    "Unsheltered Homeless":"111",
+    "Total Homeless, 2014":"3,014"
+  },
+  {
+    "State":"ID",
+    "Year":2010,
+    "Sheltered Homeless":"1,564",
+    "Unsheltered Homeless":"782",
+    "Total Homeless, 2014":"2,346"
+  },
+  {
+    "State":"IL",
+    "Year":2010,
+    "Sheltered Homeless":"12,208",
+    "Unsheltered Homeless":"2,187",
+    "Total Homeless, 2014":"14,395"
+  },
+  {
+    "State":"IN",
+    "Year":2010,
+    "Sheltered Homeless":"5,233",
+    "Unsheltered Homeless":"1,219",
+    "Total Homeless, 2014":"6,452"
+  },
+  {
+    "State":"KS",
+    "Year":2010,
+    "Sheltered Homeless":"1,828",
+    "Unsheltered Homeless":"196",
+    "Total Homeless, 2014":"2,024"
+  },
+  {
+    "State":"KY",
+    "Year":2010,
+    "Sheltered Homeless":"5,599",
+    "Unsheltered Homeless":"1,024",
+    "Total Homeless, 2014":"6,623"
+  },
+  {
+    "State":"LA",
+    "Year":2010,
+    "Sheltered Homeless":"4,096",
+    "Unsheltered Homeless":"8,386",
+    "Total Homeless, 2014":"12,482"
+  },
+  {
+    "State":"MA",
+    "Year":2010,
+    "Sheltered Homeless":"15,595",
+    "Unsheltered Homeless":"1,051",
+    "Total Homeless, 2014":"16,646"
+  },
+  {
+    "State":"MD",
+    "Year":2010,
+    "Sheltered Homeless":"6,515",
+    "Unsheltered Homeless":"4,330",
+    "Total Homeless, 2014":"10,845"
+  },
+  {
+    "State":"ME",
+    "Year":2010,
+    "Sheltered Homeless":"2,351",
+    "Unsheltered Homeless":"28",
+    "Total Homeless, 2014":"2,379"
+  },
+  {
+    "State":"MI",
+    "Year":2010,
+    "Sheltered Homeless":"10,219",
+    "Unsheltered Homeless":"2,839",
+    "Total Homeless, 2014":"13,058"
+  },
+  {
+    "State":"MN",
+    "Year":2010,
+    "Sheltered Homeless":"6,730",
+    "Unsheltered Homeless":"1,139",
+    "Total Homeless, 2014":"7,869"
+  },
+  {
+    "State":"MO",
+    "Year":2010,
+    "Sheltered Homeless":"6,336",
+    "Unsheltered Homeless":"1,786",
+    "Total Homeless, 2014":"8,122"
+  },
+  {
+    "State":"MS",
+    "Year":2010,
+    "Sheltered Homeless":"1,181",
+    "Unsheltered Homeless":"1,562",
+    "Total Homeless, 2014":"2,743"
+  },
+  {
+    "State":"MT",
+    "Year":2010,
+    "Sheltered Homeless":"1,168",
+    "Unsheltered Homeless":"447",
+    "Total Homeless, 2014":"1,615"
+  },
+  {
+    "State":"NC",
+    "Year":2010,
+    "Sheltered Homeless":"9,173",
+    "Unsheltered Homeless":"3,018",
+    "Total Homeless, 2014":"12,191"
+  },
+  {
+    "State":"ND",
+    "Year":2010,
+    "Sheltered Homeless":"768",
+    "Unsheltered Homeless":"31",
+    "Total Homeless, 2014":"799"
+  },
+  {
+    "State":"NE",
+    "Year":2010,
+    "Sheltered Homeless":"3,355",
+    "Unsheltered Homeless":"522",
+    "Total Homeless, 2014":"3,877"
+  },
+  {
+    "State":"NH",
+    "Year":2010,
+    "Sheltered Homeless":"1,337",
+    "Unsheltered Homeless":"237",
+    "Total Homeless, 2014":"1,574"
+  },
+  {
+    "State":"NJ",
+    "Year":2010,
+    "Sheltered Homeless":"12,083",
+    "Unsheltered Homeless":"1,654",
+    "Total Homeless, 2014":"13,737"
+  },
+  {
+    "State":"NM",
+    "Year":2010,
+    "Sheltered Homeless":"2,108",
+    "Unsheltered Homeless":"1,367",
+    "Total Homeless, 2014":"3,475"
+  },
+  {
+    "State":"NV",
+    "Year":2010,
+    "Sheltered Homeless":"7,848",
+    "Unsheltered Homeless":"6,746",
+    "Total Homeless, 2014":"14,594"
+  },
+  {
+    "State":"NY",
+    "Year":2010,
+    "Sheltered Homeless":"61,467",
+    "Unsheltered Homeless":"4,139",
+    "Total Homeless, 2014":"65,606"
+  },
+  {
+    "State":"OH",
+    "Year":2010,
+    "Sheltered Homeless":"10,729",
+    "Unsheltered Homeless":"1,840",
+    "Total Homeless, 2014":"12,569"
+  },
+  {
+    "State":"OK",
+    "Year":2010,
+    "Sheltered Homeless":"3,315",
+    "Unsheltered Homeless":"1,914",
+    "Total Homeless, 2014":"5,229"
+  },
+  {
+    "State":"OR",
+    "Year":2010,
+    "Sheltered Homeless":"7,231",
+    "Unsheltered Homeless":"12,261",
+    "Total Homeless, 2014":"19,492"
+  },
+  {
+    "State":"PA",
+    "Year":2010,
+    "Sheltered Homeless":"13,418",
+    "Unsheltered Homeless":"1,098",
+    "Total Homeless, 2014":"14,516"
+  },
+  {
+    "State":"PR",
+    "Year":2010,
+    "Sheltered Homeless":"1,404",
+    "Unsheltered Homeless":"2,745",
+    "Total Homeless, 2014":"4,149"
+  },
+  {
+    "State":"RI",
+    "Year":2010,
+    "Sheltered Homeless":"1,206",
+    "Unsheltered Homeless":"76",
+    "Total Homeless, 2014":"1,282"
+  },
+  {
+    "State":"SC",
+    "Year":2010,
+    "Sheltered Homeless":"3,036",
+    "Unsheltered Homeless":"1,437",
+    "Total Homeless, 2014":"4,473"
+  },
+  {
+    "State":"SD",
+    "Year":2010,
+    "Sheltered Homeless":"667",
+    "Unsheltered Homeless":"64",
+    "Total Homeless, 2014":"731"
+  },
+  {
+    "State":"TN",
+    "Year":2010,
+    "Sheltered Homeless":"6,999",
+    "Unsheltered Homeless":"3,277",
+    "Total Homeless, 2014":"10,276"
+  },
+  {
+    "State":"TX",
+    "Year":2010,
+    "Sheltered Homeless":"19,191",
+    "Unsheltered Homeless":"15,930",
+    "Total Homeless, 2014":"35,121"
+  },
+  {
+    "State":"UT",
+    "Year":2010,
+    "Sheltered Homeless":"2,722",
+    "Unsheltered Homeless":"562",
+    "Total Homeless, 2014":"3,284"
+  },
+  {
+    "State":"VA",
+    "Year":2010,
+    "Sheltered Homeless":"7,439",
+    "Unsheltered Homeless":"1,641",
+    "Total Homeless, 2014":"9,080"
+  },
+  {
+    "State":"VI",
+    "Year":2010,
+    "Sheltered Homeless":"92",
+    "Unsheltered Homeless":"395",
+    "Total Homeless, 2014":"487"
+  },
+  {
+    "State":"VT",
+    "Year":2010,
+    "Sheltered Homeless":"1,078",
+    "Unsheltered Homeless":"142",
+    "Total Homeless, 2014":"1,220"
+  },
+  {
+    "State":"WA",
+    "Year":2010,
+    "Sheltered Homeless":"16,489",
+    "Unsheltered Homeless":"6,389",
+    "Total Homeless, 2014":"22,878"
+  },
+  {
+    "State":"WI",
+    "Year":2010,
+    "Sheltered Homeless":"5,253",
+    "Unsheltered Homeless":"1,080",
+    "Total Homeless, 2014":"6,333"
+  },
+  {
+    "State":"WV",
+    "Year":2010,
+    "Sheltered Homeless":"1,524",
+    "Unsheltered Homeless":"740",
+    "Total Homeless, 2014":"2,264"
+  },
+  {
+    "State":"WY",
+    "Year":2010,
+    "Sheltered Homeless":"515",
+    "Unsheltered Homeless":"64",
+    "Total Homeless, 2014":"579"
+  },
+  {
+    "State":"AK",
+    "Year":2009,
+    "Sheltered Homeless":"1,665",
+    "Unsheltered Homeless":"327",
+    "Total Homeless, 2014":"1,992"
+  },
+  {
+    "State":"AL",
+    "Year":2009,
+    "Sheltered Homeless":"3,913",
+    "Unsheltered Homeless":"2,167",
+    "Total Homeless, 2014":"6,080"
+  },
+  {
+    "State":"AR",
+    "Year":2009,
+    "Sheltered Homeless":"1,730",
+    "Unsheltered Homeless":"1,122",
+    "Total Homeless, 2014":"2,852"
+  },
+  {
+    "State":"AZ",
+    "Year":2009,
+    "Sheltered Homeless":"8,366",
+    "Unsheltered Homeless":"6,355",
+    "Total Homeless, 2014":"14,721"
+  },
+  {
+    "State":"CA",
+    "Year":2009,
+    "Sheltered Homeless":"50,777",
+    "Unsheltered Homeless":"72,901",
+    "Total Homeless, 2014":"123,678"
+  },
+  {
+    "State":"CO",
+    "Year":2009,
+    "Sheltered Homeless":"9,031",
+    "Unsheltered Homeless":"6,237",
+    "Total Homeless, 2014":"15,268"
+  },
+  {
+    "State":"CT",
+    "Year":2009,
+    "Sheltered Homeless":"4,103",
+    "Unsheltered Homeless":"502",
+    "Total Homeless, 2014":"4,605"
+  },
+  {
+    "State":"DC",
+    "Year":2009,
+    "Sheltered Homeless":"5,907",
+    "Unsheltered Homeless":"321",
+    "Total Homeless, 2014":"6,228"
+  },
+  {
+    "State":"DE",
+    "Year":2009,
+    "Sheltered Homeless":"1,083",
+    "Unsheltered Homeless":"47",
+    "Total Homeless, 2014":"1,130"
+  },
+  {
+    "State":"FL",
+    "Year":2009,
+    "Sheltered Homeless":"21,867",
+    "Unsheltered Homeless":"33,732",
+    "Total Homeless, 2014":"55,599"
+  },
+  {
+    "State":"GA",
+    "Year":2009,
+    "Sheltered Homeless":"9,419",
+    "Unsheltered Homeless":"10,941",
+    "Total Homeless, 2014":"20,360"
+  },
+  {
+    "State":"GU",
+    "Year":2009,
+    "Sheltered Homeless":"182",
+    "Unsheltered Homeless":"906",
+    "Total Homeless, 2014":"1,088"
+  },
+  {
+    "State":"HI",
+    "Year":2009,
+    "Sheltered Homeless":"3,268",
+    "Unsheltered Homeless":"2,514",
+    "Total Homeless, 2014":"5,782"
+  },
+  {
+    "State":"IA",
+    "Year":2009,
+    "Sheltered Homeless":"3,221",
+    "Unsheltered Homeless":"159",
+    "Total Homeless, 2014":"3,380"
+  },
+  {
+    "State":"ID",
+    "Year":2009,
+    "Sheltered Homeless":"1,477",
+    "Unsheltered Homeless":"462",
+    "Total Homeless, 2014":"1,939"
+  },
+  {
+    "State":"IL",
+    "Year":2009,
+    "Sheltered Homeless":"11,851",
+    "Unsheltered Homeless":"2,204",
+    "Total Homeless, 2014":"14,055"
+  },
+  {
+    "State":"IN",
+    "Year":2009,
+    "Sheltered Homeless":"5,206",
+    "Unsheltered Homeless":"1,778",
+    "Total Homeless, 2014":"6,984"
+  },
+  {
+    "State":"KS",
+    "Year":2009,
+    "Sheltered Homeless":"1,696",
+    "Unsheltered Homeless":"196",
+    "Total Homeless, 2014":"1,892"
+  },
+  {
+    "State":"KY",
+    "Year":2009,
+    "Sheltered Homeless":"5,299",
+    "Unsheltered Homeless":"700",
+    "Total Homeless, 2014":"5,999"
+  },
+  {
+    "State":"LA",
+    "Year":2009,
+    "Sheltered Homeless":"4,118",
+    "Unsheltered Homeless":"8,386",
+    "Total Homeless, 2014":"12,504"
+  },
+  {
+    "State":"MA",
+    "Year":2009,
+    "Sheltered Homeless":"14,476",
+    "Unsheltered Homeless":"1,006",
+    "Total Homeless, 2014":"15,482"
+  },
+  {
+    "State":"MD",
+    "Year":2009,
+    "Sheltered Homeless":"7,446",
+    "Unsheltered Homeless":"4,252",
+    "Total Homeless, 2014":"11,698"
+  },
+  {
+    "State":"ME",
+    "Year":2009,
+    "Sheltered Homeless":"2,406",
+    "Unsheltered Homeless":"38",
+    "Total Homeless, 2014":"2,444"
+  },
+  {
+    "State":"MI",
+    "Year":2009,
+    "Sheltered Homeless":"11,298",
+    "Unsheltered Homeless":"2,707",
+    "Total Homeless, 2014":"14,005"
+  },
+  {
+    "State":"MN",
+    "Year":2009,
+    "Sheltered Homeless":"6,772",
+    "Unsheltered Homeless":"946",
+    "Total Homeless, 2014":"7,718"
+  },
+  {
+    "State":"MO",
+    "Year":2009,
+    "Sheltered Homeless":"5,469",
+    "Unsheltered Homeless":"1,490",
+    "Total Homeless, 2014":"6,959"
+  },
+  {
+    "State":"MS",
+    "Year":2009,
+    "Sheltered Homeless":"1,221",
+    "Unsheltered Homeless":"1,576",
+    "Total Homeless, 2014":"2,797"
+  },
+  {
+    "State":"MT",
+    "Year":2009,
+    "Sheltered Homeless":"833",
+    "Unsheltered Homeless":"363",
+    "Total Homeless, 2014":"1,196"
+  },
+  {
+    "State":"NC",
+    "Year":2009,
+    "Sheltered Homeless":"8,473",
+    "Unsheltered Homeless":"4,445",
+    "Total Homeless, 2014":"12,918"
+  },
+  {
+    "State":"ND",
+    "Year":2009,
+    "Sheltered Homeless":"765",
+    "Unsheltered Homeless":"8",
+    "Total Homeless, 2014":"773"
+  },
+  {
+    "State":"NE",
+    "Year":2009,
+    "Sheltered Homeless":"3,079",
+    "Unsheltered Homeless":"639",
+    "Total Homeless, 2014":"3,718"
+  },
+  {
+    "State":"NH",
+    "Year":2009,
+    "Sheltered Homeless":"1,406",
+    "Unsheltered Homeless":"239",
+    "Total Homeless, 2014":"1,645"
+  },
+  {
+    "State":"NJ",
+    "Year":2009,
+    "Sheltered Homeless":"11,871",
+    "Unsheltered Homeless":"1,298",
+    "Total Homeless, 2014":"13,169"
+  },
+  {
+    "State":"NM",
+    "Year":2009,
+    "Sheltered Homeless":"2,108",
+    "Unsheltered Homeless":"1,367",
+    "Total Homeless, 2014":"3,475"
+  },
+  {
+    "State":"NV",
+    "Year":2009,
+    "Sheltered Homeless":"7,792",
+    "Unsheltered Homeless":"6,686",
+    "Total Homeless, 2014":"14,478"
+  },
+  {
+    "State":"NY",
+    "Year":2009,
+    "Sheltered Homeless":"57,454",
+    "Unsheltered Homeless":"3,613",
+    "Total Homeless, 2014":"61,067"
+  },
+  {
+    "State":"OH",
+    "Year":2009,
+    "Sheltered Homeless":"10,929",
+    "Unsheltered Homeless":"1,771",
+    "Total Homeless, 2014":"12,700"
+  },
+  {
+    "State":"OK",
+    "Year":2009,
+    "Sheltered Homeless":"3,307",
+    "Unsheltered Homeless":"1,531",
+    "Total Homeless, 2014":"4,838"
+  },
+  {
+    "State":"OR",
+    "Year":2009,
+    "Sheltered Homeless":"7,442",
+    "Unsheltered Homeless":"9,867",
+    "Total Homeless, 2014":"17,309"
+  },
+  {
+    "State":"PA",
+    "Year":2009,
+    "Sheltered Homeless":"13,819",
+    "Unsheltered Homeless":"1,277",
+    "Total Homeless, 2014":"15,096"
+  },
+  {
+    "State":"PR",
+    "Year":2009,
+    "Sheltered Homeless":"1,325",
+    "Unsheltered Homeless":"2,745",
+    "Total Homeless, 2014":"4,070"
+  },
+  {
+    "State":"RI",
+    "Year":2009,
+    "Sheltered Homeless":"1,556",
+    "Unsheltered Homeless":"51",
+    "Total Homeless, 2014":"1,607"
+  },
+  {
+    "State":"SC",
+    "Year":2009,
+    "Sheltered Homeless":"3,036",
+    "Unsheltered Homeless":"1,437",
+    "Total Homeless, 2014":"4,473"
+  },
+  {
+    "State":"SD",
+    "Year":2009,
+    "Sheltered Homeless":"667",
+    "Unsheltered Homeless":"64",
+    "Total Homeless, 2014":"731"
+  },
+  {
+    "State":"TN",
+    "Year":2009,
+    "Sheltered Homeless":"7,133",
+    "Unsheltered Homeless":"3,399",
+    "Total Homeless, 2014":"10,532"
+  },
+  {
+    "State":"TX",
+    "Year":2009,
+    "Sheltered Homeless":"21,658",
+    "Unsheltered Homeless":"15,103",
+    "Total Homeless, 2014":"36,761"
+  },
+  {
+    "State":"UT",
+    "Year":2009,
+    "Sheltered Homeless":"3,540",
+    "Unsheltered Homeless":"255",
+    "Total Homeless, 2014":"3,795"
+  },
+  {
+    "State":"VA",
+    "Year":2009,
+    "Sheltered Homeless":"7,284",
+    "Unsheltered Homeless":"1,568",
+    "Total Homeless, 2014":"8,852"
+  },
+  {
+    "State":"VI",
+    "Year":2009,
+    "Sheltered Homeless":"76",
+    "Unsheltered Homeless":"395",
+    "Total Homeless, 2014":"471"
+  },
+  {
+    "State":"VT",
+    "Year":2009,
+    "Sheltered Homeless":"1,057",
+    "Unsheltered Homeless":"157",
+    "Total Homeless, 2014":"1,214"
+  },
+  {
+    "State":"WA",
+    "Year":2009,
+    "Sheltered Homeless":"16,237",
+    "Unsheltered Homeless":"6,545",
+    "Total Homeless, 2014":"22,782"
+  },
+  {
+    "State":"WI",
+    "Year":2009,
+    "Sheltered Homeless":"5,465",
+    "Unsheltered Homeless":"1,060",
+    "Total Homeless, 2014":"6,525"
+  },
+  {
+    "State":"WV",
+    "Year":2009,
+    "Sheltered Homeless":"1,278",
+    "Unsheltered Homeless":"389",
+    "Total Homeless, 2014":"1,667"
+  },
+  {
+    "State":"WY",
+    "Year":2009,
+    "Sheltered Homeless":"451",
+    "Unsheltered Homeless":"64",
+    "Total Homeless, 2014":"515"
+  },
+  {
+    "State":"AK",
+    "Year":2008,
+    "Sheltered Homeless":"1,452",
+    "Unsheltered Homeless":"194",
+    "Total Homeless, 2014":"1,646"
+  },
+  {
+    "State":"AL",
+    "Year":2008,
+    "Sheltered Homeless":"3,843",
+    "Unsheltered Homeless":"1,544",
+    "Total Homeless, 2014":"5,387"
+  },
+  {
+    "State":"AR",
+    "Year":2008,
+    "Sheltered Homeless":"2,020",
+    "Unsheltered Homeless":"1,235",
+    "Total Homeless, 2014":"3,255"
+  },
+  {
+    "State":"AZ",
+    "Year":2008,
+    "Sheltered Homeless":"6,970",
+    "Unsheltered Homeless":"5,518",
+    "Total Homeless, 2014":"12,488"
+  },
+  {
+    "State":"CA",
+    "Year":2008,
+    "Sheltered Homeless":"46,965",
+    "Unsheltered Homeless":"89,566",
+    "Total Homeless, 2014":"136,531"
+  },
+  {
+    "State":"CO",
+    "Year":2008,
+    "Sheltered Homeless":"6,877",
+    "Unsheltered Homeless":"7,870",
+    "Total Homeless, 2014":"14,747"
+  },
+  {
+    "State":"CT",
+    "Year":2008,
+    "Sheltered Homeless":"4,020",
+    "Unsheltered Homeless":"607",
+    "Total Homeless, 2014":"4,627"
+  },
+  {
+    "State":"DC",
+    "Year":2008,
+    "Sheltered Homeless":"5,666",
+    "Unsheltered Homeless":"378",
+    "Total Homeless, 2014":"6,044"
+  },
+  {
+    "State":"DE",
+    "Year":2008,
+    "Sheltered Homeless":"862",
+    "Unsheltered Homeless":"71",
+    "Total Homeless, 2014":"933"
+  },
+  {
+    "State":"FL",
+    "Year":2008,
+    "Sheltered Homeless":"20,724",
+    "Unsheltered Homeless":"29,434",
+    "Total Homeless, 2014":"50,158"
+  },
+  {
+    "State":"GA",
+    "Year":2008,
+    "Sheltered Homeless":"8,865",
+    "Unsheltered Homeless":"10,230",
+    "Total Homeless, 2014":"19,095"
+  },
+  {
+    "State":"GU",
+    "Year":2008,
+    "Sheltered Homeless":"103",
+    "Unsheltered Homeless":"622",
+    "Total Homeless, 2014":"725"
+  },
+  {
+    "State":"HI",
+    "Year":2008,
+    "Sheltered Homeless":"2,703",
+    "Unsheltered Homeless":"3,358",
+    "Total Homeless, 2014":"6,061"
+  },
+  {
+    "State":"IA",
+    "Year":2008,
+    "Sheltered Homeless":"3,087",
+    "Unsheltered Homeless":"259",
+    "Total Homeless, 2014":"3,346"
+  },
+  {
+    "State":"ID",
+    "Year":2008,
+    "Sheltered Homeless":"1,250",
+    "Unsheltered Homeless":"214",
+    "Total Homeless, 2014":"1,464"
+  },
+  {
+    "State":"IL",
+    "Year":2008,
+    "Sheltered Homeless":"11,480",
+    "Unsheltered Homeless":"3,244",
+    "Total Homeless, 2014":"14,724"
+  },
+  {
+    "State":"IN",
+    "Year":2008,
+    "Sheltered Homeless":"5,923",
+    "Unsheltered Homeless":"1,472",
+    "Total Homeless, 2014":"7,395"
+  },
+  {
+    "State":"KS",
+    "Year":2008,
+    "Sheltered Homeless":"1,500",
+    "Unsheltered Homeless":"238",
+    "Total Homeless, 2014":"1,738"
+  },
+  {
+    "State":"KY",
+    "Year":2008,
+    "Sheltered Homeless":"6,195",
+    "Unsheltered Homeless":"1,942",
+    "Total Homeless, 2014":"8,137"
+  },
+  {
+    "State":"LA",
+    "Year":2008,
+    "Sheltered Homeless":"3,700",
+    "Unsheltered Homeless":"1,781",
+    "Total Homeless, 2014":"5,481"
+  },
+  {
+    "State":"MA",
+    "Year":2008,
+    "Sheltered Homeless":"13,437",
+    "Unsheltered Homeless":"1,069",
+    "Total Homeless, 2014":"14,506"
+  },
+  {
+    "State":"MD",
+    "Year":2008,
+    "Sheltered Homeless":"6,054",
+    "Unsheltered Homeless":"3,165",
+    "Total Homeless, 2014":"9,219"
+  },
+  {
+    "State":"ME",
+    "Year":2008,
+    "Sheltered Homeless":"2,588",
+    "Unsheltered Homeless":"44",
+    "Total Homeless, 2014":"2,632"
+  },
+  {
+    "State":"MI",
+    "Year":2008,
+    "Sheltered Homeless":"11,781",
+    "Unsheltered Homeless":"16,467",
+    "Total Homeless, 2014":"28,248"
+  },
+  {
+    "State":"MN",
+    "Year":2008,
+    "Sheltered Homeless":"6,270",
+    "Unsheltered Homeless":"1,374",
+    "Total Homeless, 2014":"7,644"
+  },
+  {
+    "State":"MO",
+    "Year":2008,
+    "Sheltered Homeless":"5,607",
+    "Unsheltered Homeless":"2,080",
+    "Total Homeless, 2014":"7,687"
+  },
+  {
+    "State":"MS",
+    "Year":2008,
+    "Sheltered Homeless":"1,206",
+    "Unsheltered Homeless":"755",
+    "Total Homeless, 2014":"1,961"
+  },
+  {
+    "State":"MT",
+    "Year":2008,
+    "Sheltered Homeless":"1,007",
+    "Unsheltered Homeless":"410",
+    "Total Homeless, 2014":"1,417"
+  },
+  {
+    "State":"NC",
+    "Year":2008,
+    "Sheltered Homeless":"8,025",
+    "Unsheltered Homeless":"4,386",
+    "Total Homeless, 2014":"12,411"
+  },
+  {
+    "State":"ND",
+    "Year":2008,
+    "Sheltered Homeless":"596",
+    "Unsheltered Homeless":"19",
+    "Total Homeless, 2014":"615"
+  },
+  {
+    "State":"NE",
+    "Year":2008,
+    "Sheltered Homeless":"3,227",
+    "Unsheltered Homeless":"758",
+    "Total Homeless, 2014":"3,985"
+  },
+  {
+    "State":"NH",
+    "Year":2008,
+    "Sheltered Homeless":"1,535",
+    "Unsheltered Homeless":"484",
+    "Total Homeless, 2014":"2,019"
+  },
+  {
+    "State":"NJ",
+    "Year":2008,
+    "Sheltered Homeless":"11,860",
+    "Unsheltered Homeless":"1,972",
+    "Total Homeless, 2014":"13,832"
+  },
+  {
+    "State":"NM",
+    "Year":2008,
+    "Sheltered Homeless":"1,748",
+    "Unsheltered Homeless":"1,267",
+    "Total Homeless, 2014":"3,015"
+  },
+  {
+    "State":"NV",
+    "Year":2008,
+    "Sheltered Homeless":"4,863",
+    "Unsheltered Homeless":"7,747",
+    "Total Homeless, 2014":"12,610"
+  },
+  {
+    "State":"NY",
+    "Year":2008,
+    "Sheltered Homeless":"56,516",
+    "Unsheltered Homeless":"4,609",
+    "Total Homeless, 2014":"61,125"
+  },
+  {
+    "State":"OH",
+    "Year":2008,
+    "Sheltered Homeless":"10,377",
+    "Unsheltered Homeless":"2,535",
+    "Total Homeless, 2014":"12,912"
+  },
+  {
+    "State":"OK",
+    "Year":2008,
+    "Sheltered Homeless":"2,803",
+    "Unsheltered Homeless":"1,043",
+    "Total Homeless, 2014":"3,846"
+  },
+  {
+    "State":"OR",
+    "Year":2008,
+    "Sheltered Homeless":"9,946",
+    "Unsheltered Homeless":"10,707",
+    "Total Homeless, 2014":"20,653"
+  },
+  {
+    "State":"PA",
+    "Year":2008,
+    "Sheltered Homeless":"14,079",
+    "Unsheltered Homeless":"1,299",
+    "Total Homeless, 2014":"15,378"
+  },
+  {
+    "State":"PR",
+    "Year":2008,
+    "Sheltered Homeless":"810",
+    "Unsheltered Homeless":"2,202",
+    "Total Homeless, 2014":"3,012"
+  },
+  {
+    "State":"RI",
+    "Year":2008,
+    "Sheltered Homeless":"1,142",
+    "Unsheltered Homeless":"54",
+    "Total Homeless, 2014":"1,196"
+  },
+  {
+    "State":"SC",
+    "Year":2008,
+    "Sheltered Homeless":"3,086",
+    "Unsheltered Homeless":"2,574",
+    "Total Homeless, 2014":"5,660"
+  },
+  {
+    "State":"SD",
+    "Year":2008,
+    "Sheltered Homeless":"538",
+    "Unsheltered Homeless":"41",
+    "Total Homeless, 2014":"579"
+  },
+  {
+    "State":"TN",
+    "Year":2008,
+    "Sheltered Homeless":"5,660",
+    "Unsheltered Homeless":"4,045",
+    "Total Homeless, 2014":"9,705"
+  },
+  {
+    "State":"TX",
+    "Year":2008,
+    "Sheltered Homeless":"24,080",
+    "Unsheltered Homeless":"16,110",
+    "Total Homeless, 2014":"40,190"
+  },
+  {
+    "State":"UT",
+    "Year":2008,
+    "Sheltered Homeless":"3,178",
+    "Unsheltered Homeless":"256",
+    "Total Homeless, 2014":"3,434"
+  },
+  {
+    "State":"VA",
+    "Year":2008,
+    "Sheltered Homeless":"6,895",
+    "Unsheltered Homeless":"1,574",
+    "Total Homeless, 2014":"8,469"
+  },
+  {
+    "State":"VI",
+    "Year":2008,
+    "Sheltered Homeless":"115",
+    "Unsheltered Homeless":"487",
+    "Total Homeless, 2014":"602"
+  },
+  {
+    "State":"VT",
+    "Year":2008,
+    "Sheltered Homeless":"696",
+    "Unsheltered Homeless":"258",
+    "Total Homeless, 2014":"954"
+  },
+  {
+    "State":"WA",
+    "Year":2008,
+    "Sheltered Homeless":"15,456",
+    "Unsheltered Homeless":"6,498",
+    "Total Homeless, 2014":"21,954"
+  },
+  {
+    "State":"WI",
+    "Year":2008,
+    "Sheltered Homeless":"4,934",
+    "Unsheltered Homeless":"515",
+    "Total Homeless, 2014":"5,449"
+  },
+  {
+    "State":"WV",
+    "Year":2008,
+    "Sheltered Homeless":"1,422",
+    "Unsheltered Homeless":"594",
+    "Total Homeless, 2014":"2,016"
+  },
+  {
+    "State":"WY",
+    "Year":2008,
+    "Sheltered Homeless":"619",
+    "Unsheltered Homeless":"132",
+    "Total Homeless, 2014":"751"
+  },
+  {
+    "State":"AK",
+    "Year":2007,
+    "Sheltered Homeless":"1,387",
+    "Unsheltered Homeless":"255",
+    "Total Homeless, 2014":"1,642"
+  },
+  {
+    "State":"AL",
+    "Year":2007,
+    "Sheltered Homeless":"3,796",
+    "Unsheltered Homeless":"1,656",
+    "Total Homeless, 2014":"5,452"
+  },
+  {
+    "State":"AR",
+    "Year":2007,
+    "Sheltered Homeless":"2,285",
+    "Unsheltered Homeless":"1,551",
+    "Total Homeless, 2014":"3,836"
+  },
+  {
+    "State":"AZ",
+    "Year":2007,
+    "Sheltered Homeless":"8,618",
+    "Unsheltered Homeless":"6,028",
+    "Total Homeless, 2014":"14,646"
+  },
+  {
+    "State":"CA",
+    "Year":2007,
+    "Sheltered Homeless":"48,511",
+    "Unsheltered Homeless":"90,475",
+    "Total Homeless, 2014":"138,986"
+  },
+  {
+    "State":"CO",
+    "Year":2007,
+    "Sheltered Homeless":"6,971",
+    "Unsheltered Homeless":"7,254",
+    "Total Homeless, 2014":"14,225"
+  },
+  {
+    "State":"CT",
+    "Year":2007,
+    "Sheltered Homeless":"3,671",
+    "Unsheltered Homeless":"811",
+    "Total Homeless, 2014":"4,482"
+  },
+  {
+    "State":"DC",
+    "Year":2007,
+    "Sheltered Homeless":"4,980",
+    "Unsheltered Homeless":"340",
+    "Total Homeless, 2014":"5,320"
+  },
+  {
+    "State":"DE",
+    "Year":2007,
+    "Sheltered Homeless":"854",
+    "Unsheltered Homeless":"207",
+    "Total Homeless, 2014":"1,061"
+  },
+  {
+    "State":"FL",
+    "Year":2007,
+    "Sheltered Homeless":"20,529",
+    "Unsheltered Homeless":"27,540",
+    "Total Homeless, 2014":"48,069"
+  },
+  {
+    "State":"GA",
+    "Year":2007,
+    "Sheltered Homeless":"8,341",
+    "Unsheltered Homeless":"11,298",
+    "Total Homeless, 2014":"19,639"
+  },
+  {
+    "State":"GU",
+    "Year":2007,
+    "Sheltered Homeless":"103",
+    "Unsheltered Homeless":"622",
+    "Total Homeless, 2014":"725"
+  },
+  {
+    "State":"HI",
+    "Year":2007,
+    "Sheltered Homeless":"2,712",
+    "Unsheltered Homeless":"3,358",
+    "Total Homeless, 2014":"6,070"
+  },
+  {
+    "State":"IA",
+    "Year":2007,
+    "Sheltered Homeless":"2,441",
+    "Unsheltered Homeless":"293",
+    "Total Homeless, 2014":"2,734"
+  },
+  {
+    "State":"ID",
+    "Year":2007,
+    "Sheltered Homeless":"1,125",
+    "Unsheltered Homeless":"624",
+    "Total Homeless, 2014":"1,749"
+  },
+  {
+    "State":"IL",
+    "Year":2007,
+    "Sheltered Homeless":"12,171",
+    "Unsheltered Homeless":"3,316",
+    "Total Homeless, 2014":"15,487"
+  },
+  {
+    "State":"IN",
+    "Year":2007,
+    "Sheltered Homeless":"6,096",
+    "Unsheltered Homeless":"1,262",
+    "Total Homeless, 2014":"7,358"
+  },
+  {
+    "State":"KS",
+    "Year":2007,
+    "Sheltered Homeless":"1,829",
+    "Unsheltered Homeless":"282",
+    "Total Homeless, 2014":"2,111"
+  },
+  {
+    "State":"KY",
+    "Year":2007,
+    "Sheltered Homeless":"5,940",
+    "Unsheltered Homeless":"2,121",
+    "Total Homeless, 2014":"8,061"
+  },
+  {
+    "State":"LA",
+    "Year":2007,
+    "Sheltered Homeless":"3,917",
+    "Unsheltered Homeless":"1,577",
+    "Total Homeless, 2014":"5,494"
+  },
+  {
+    "State":"MA",
+    "Year":2007,
+    "Sheltered Homeless":"13,713",
+    "Unsheltered Homeless":"1,414",
+    "Total Homeless, 2014":"15,127"
+  },
+  {
+    "State":"MD",
+    "Year":2007,
+    "Sheltered Homeless":"6,418",
+    "Unsheltered Homeless":"3,210",
+    "Total Homeless, 2014":"9,628"
+  },
+  {
+    "State":"ME",
+    "Year":2007,
+    "Sheltered Homeless":"2,576",
+    "Unsheltered Homeless":"62",
+    "Total Homeless, 2014":"2,638"
+  },
+  {
+    "State":"MI",
+    "Year":2007,
+    "Sheltered Homeless":"11,552",
+    "Unsheltered Homeless":"16,743",
+    "Total Homeless, 2014":"28,295"
+  },
+  {
+    "State":"MN",
+    "Year":2007,
+    "Sheltered Homeless":"5,878",
+    "Unsheltered Homeless":"1,445",
+    "Total Homeless, 2014":"7,323"
+  },
+  {
+    "State":"MO",
+    "Year":2007,
+    "Sheltered Homeless":"5,137",
+    "Unsheltered Homeless":"1,110",
+    "Total Homeless, 2014":"6,247"
+  },
+  {
+    "State":"MS",
+    "Year":2007,
+    "Sheltered Homeless":"851",
+    "Unsheltered Homeless":"526",
+    "Total Homeless, 2014":"1,377"
+  },
+  {
+    "State":"MT",
+    "Year":2007,
+    "Sheltered Homeless":"855",
+    "Unsheltered Homeless":"295",
+    "Total Homeless, 2014":"1,150"
+  },
+  {
+    "State":"NC",
+    "Year":2007,
+    "Sheltered Homeless":"7,879",
+    "Unsheltered Homeless":"3,923",
+    "Total Homeless, 2014":"11,802"
+  },
+  {
+    "State":"ND",
+    "Year":2007,
+    "Sheltered Homeless":"577",
+    "Unsheltered Homeless":"59",
+    "Total Homeless, 2014":"636"
+  },
+  {
+    "State":"NE",
+    "Year":2007,
+    "Sheltered Homeless":"3,007",
+    "Unsheltered Homeless":"524",
+    "Total Homeless, 2014":"3,531"
+  },
+  {
+    "State":"NH",
+    "Year":2007,
+    "Sheltered Homeless":"1,273",
+    "Unsheltered Homeless":"975",
+    "Total Homeless, 2014":"2,248"
+  },
+  {
+    "State":"NJ",
+    "Year":2007,
+    "Sheltered Homeless":"14,836",
+    "Unsheltered Homeless":"2,478",
+    "Total Homeless, 2014":"17,314"
+  },
+  {
+    "State":"NM",
+    "Year":2007,
+    "Sheltered Homeless":"1,748",
+    "Unsheltered Homeless":"1,267",
+    "Total Homeless, 2014":"3,015"
+  },
+  {
+    "State":"NV",
+    "Year":2007,
+    "Sheltered Homeless":"4,818",
+    "Unsheltered Homeless":"7,708",
+    "Total Homeless, 2014":"12,526"
+  },
+  {
+    "State":"NY",
+    "Year":2007,
+    "Sheltered Homeless":"57,281",
+    "Unsheltered Homeless":"5,320",
+    "Total Homeless, 2014":"62,601"
+  },
+  {
+    "State":"OH",
+    "Year":2007,
+    "Sheltered Homeless":"9,380",
+    "Unsheltered Homeless":"1,884",
+    "Total Homeless, 2014":"11,264"
+  },
+  {
+    "State":"OK",
+    "Year":2007,
+    "Sheltered Homeless":"3,089",
+    "Unsheltered Homeless":"1,132",
+    "Total Homeless, 2014":"4,221"
+  },
+  {
+    "State":"OR",
+    "Year":2007,
+    "Sheltered Homeless":"8,329",
+    "Unsheltered Homeless":"9,261",
+    "Total Homeless, 2014":"17,590"
+  },
+  {
+    "State":"PA",
+    "Year":2007,
+    "Sheltered Homeless":"14,741",
+    "Unsheltered Homeless":"1,479",
+    "Total Homeless, 2014":"16,220"
+  },
+  {
+    "State":"PR",
+    "Year":2007,
+    "Sheltered Homeless":"1,368",
+    "Unsheltered Homeless":"2,941",
+    "Total Homeless, 2014":"4,309"
+  },
+  {
+    "State":"RI",
+    "Year":2007,
+    "Sheltered Homeless":"1,323",
+    "Unsheltered Homeless":"49",
+    "Total Homeless, 2014":"1,372"
+  },
+  {
+    "State":"SC",
+    "Year":2007,
+    "Sheltered Homeless":"3,086",
+    "Unsheltered Homeless":"2,574",
+    "Total Homeless, 2014":"5,660"
+  },
+  {
+    "State":"SD",
+    "Year":2007,
+    "Sheltered Homeless":"538",
+    "Unsheltered Homeless":"41",
+    "Total Homeless, 2014":"579"
+  },
+  {
+    "State":"TN",
+    "Year":2007,
+    "Sheltered Homeless":"6,446",
+    "Unsheltered Homeless":"4,764",
+    "Total Homeless, 2014":"11,210"
+  },
+  {
+    "State":"TX",
+    "Year":2007,
+    "Sheltered Homeless":"22,882",
+    "Unsheltered Homeless":"16,906",
+    "Total Homeless, 2014":"39,788"
+  },
+  {
+    "State":"UT",
+    "Year":2007,
+    "Sheltered Homeless":"2,698",
+    "Unsheltered Homeless":"313",
+    "Total Homeless, 2014":"3,011"
+  },
+  {
+    "State":"VA",
+    "Year":2007,
+    "Sheltered Homeless":"7,567",
+    "Unsheltered Homeless":"2,179",
+    "Total Homeless, 2014":"9,746"
+  },
+  {
+    "State":"VI",
+    "Year":2007,
+    "Sheltered Homeless":"72",
+    "Unsheltered Homeless":"487",
+    "Total Homeless, 2014":"559"
+  },
+  {
+    "State":"VT",
+    "Year":2007,
+    "Sheltered Homeless":"720",
+    "Unsheltered Homeless":"315",
+    "Total Homeless, 2014":"1,035"
+  },
+  {
+    "State":"WA",
+    "Year":2007,
+    "Sheltered Homeless":"16,857",
+    "Unsheltered Homeless":"6,522",
+    "Total Homeless, 2014":"23,379"
+  },
+  {
+    "State":"WI",
+    "Year":2007,
+    "Sheltered Homeless":"5,085",
+    "Unsheltered Homeless":"563",
+    "Total Homeless, 2014":"5,648"
+  },
+  {
+    "State":"WV",
+    "Year":2007,
+    "Sheltered Homeless":"2,147",
+    "Unsheltered Homeless":"262",
+    "Total Homeless, 2014":"2,409"
+  },
+  {
+    "State":"WY",
+    "Year":2007,
+    "Sheltered Homeless":"397",
+    "Unsheltered Homeless":"140",
+    "Total Homeless, 2014":"537"
+  }
+]

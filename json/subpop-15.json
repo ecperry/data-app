@@ -1,0 +1,38 @@
+[
+  {
+    "name":"Chronically Homeless  ",
+    "y":27.84478736
+  },
+  {
+    "name":"Severely Mentally Ill ",
+    "y":25.48514749
+  },
+  {
+    "name":"Chronic Substance Abuse ",
+    "y":23.54196547
+  },
+  {
+    "name":"Veterans ",
+    "y":9.772935423
+  },
+  {
+    "name":"HIV/AIDS ",
+    "y":1.675335672
+  },
+  {
+    "name":"Victims of Domestic Violence",
+    "y":20.37014637
+  },
+  {
+    "name":"Unaccompanied Youth ",
+    "y":8.999637111
+  },
+  {
+    "name":"Parenting Youth ",
+    "y":0.737873473
+  },
+  {
+    "name":"Children of Parenting Youth",
+    "y":1.002263734
+  }
+]
